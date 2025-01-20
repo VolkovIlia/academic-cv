@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rus | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/ru/</link>
+      <atom:link href="http://localhost:1313/ru/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rus</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Rus</title>
+      <link>http://localhost:1313/ru/ru/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ru/ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/ru/about/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
