@@ -59,8 +59,8 @@ interests:
 education:
   - area: Кандидат технических наук. Порошковая металлургия и композиционные материалы
     institution: Университет МИСИС
-    date_start: 2023
-    date_end: 2018
+    date_start: '2018'
+    date_end: '2023'
     summary: |
       Тема диссертации _Разработка перспективных катализаторов на основе гетерогенных наноструктур нитрида бора_. Научный руководитель [Профессор Штанский Д.В.](https://misis.ru/science/community/scientists/3493/). Результаты отражены на пяти конференциях и в трех рецензируемых журналах.
     button:
@@ -68,14 +68,14 @@ education:
       url: 'https://misis.ru/science/dissertations/2022/3635/'
   - area: Магистр. Металлургия. Порошковая металлругия и функциональные покрытия
     institution: Университет МИСИС
-    date_start: 2016
-    date_end: 2018
+    date_start: '2016'
+    date_end: '2018'
     summary: | 
       Разработка высокоэнтропийных сплавов методом высокоэнергетической механической обработки
   - area: Бакалавр. Управление качеством
     institution: Университет МИСИС
-    date_start: 2012
-    date_end: 2014
+    date_start: '2012'
+    date_end: '2014'
     summary: |
       Статистические методы контроля качества
 work:
@@ -83,8 +83,8 @@ work:
     company_name: Университет СИРИУС
     company_url: ''
     company_logo: ''
-    date_start: '2024'
-    date_end: '2024'
+    date_start: '15-08-2024'
+    date_end: '17-11-2024'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -94,8 +94,8 @@ work:
     company_name: АО Гиредмет (ГК Росатом)
     company_url: ''
     company_logo: ''
-    date_start: 2022
-    date_end: 2024
+    date_start: '2022'
+    date_end: '2024'
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -104,8 +104,8 @@ work:
     company_name: Университет МИСИС
     company_url: ''
     company_logo: ''
-    date_start: 2017
-    date_end: 2022
+    date_start: '2017'
+    date_end: '2022'
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
