@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -29,7 +29,25 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
+  - block: stats
+    content:
+      items:
+        - statistic: "11"
+          description: |
+            Publications
+        - statistic: "173"
+          description: |
+            Citations
+        - statistic: "5"
+          description: |
+            h-index
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: markdown
     content:
       title: '📚 Исследования'
