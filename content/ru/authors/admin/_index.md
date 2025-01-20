@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: кандидат технических наук
+role: Наука. Знания. Свобода.
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/VolkovIlia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/volkovilia
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=ru&user=xfbbm54AAAAJ
   - icon: academicons/orcid
@@ -79,23 +79,33 @@ education:
     summary: |
       Статистические методы контроля качества
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Главный инженер исследователь
+    company_name: Университет СИРИУС
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: '2024'
+    date_end: '2024'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Руководитель проекта
+    company_name: АО Гиредмет (ГК Росатом)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022
+    date_end: 2024
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Инженер научного проекта
+    company_name: Университет МИСИС
+    company_url: ''
+    company_logo: ''
+    date_start: 2017
+    date_end: 2022
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
