@@ -31,7 +31,7 @@ role: Наука. Знания. Свобода.
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ilia.volkov@outlook.com'
+    url: 'mailto:ilia.volkov@outlook.com'
     label: E-mail Me
   # - icon: brands/x
     # url: https://twitter.com/GetResearchDev
