@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Курсы
+summary: Мои курсы
 type: landing
 
 cascade:
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Курсы
       filters:
         folders:
           - teaching

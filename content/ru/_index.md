@@ -35,13 +35,13 @@ sections:
       items:
         - statistic: "11"
           description: |
-            Publications
+            Статьи
         - statistic: "173"
           description: |
-            Citations
+            Цитирования
         - statistic: "5"
           description: |
-            h-index
+            Индекс Хирша
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -59,7 +59,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Поданные статьи
       filters:
         folders:
           - publication
@@ -69,7 +69,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Опубликованные статьи
       text: ""
       filters:
         folders:
@@ -80,7 +80,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Выступления
       filters:
         folders:
           - event
