@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hexagonal BN | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/hexagonal-bn/</link>
+      <atom:link href="http://localhost:1313/ru/tags/hexagonal-bn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hexagonal BN</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Hexagonal BN</title>
+      <link>http://localhost:1313/ru/tags/hexagonal-bn/</link>
+    </image>
+    
+    <item>
+      <title>Hexagonal BN- and BNO-supported Au and Pt Nanocatalysts in Carbon Monoxide Oxidation and Carbon Dioxide Hydrogenation Reactions</title>
+      <link>http://localhost:1313/ru/publication/kovalskii-hexagonal-bnbn-osupported-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/publication/kovalskii-hexagonal-bnbn-osupported-2022/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amorphous MoSxOy/h-BNxOy Nanohybrids: Synthesis and Dye Photodegradation</title>
+      <link>http://localhost:1313/ru/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Ni,Cu)/Hexagonal BN Nanohybrids -- New Efficient Catalysts for Methanol Steam Reforming and Carbon Monoxide Oxidation</title>
+      <link>http://localhost:1313/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

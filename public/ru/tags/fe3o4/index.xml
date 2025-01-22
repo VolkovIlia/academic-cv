@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fe3O4 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/fe3o4/</link>
+      <atom:link href="http://localhost:1313/ru/tags/fe3o4/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fe3O4</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Fe3O4</title>
+      <link>http://localhost:1313/ru/tags/fe3o4/</link>
+    </image>
+    
+    <item>
+      <title>Microstructure and Catalytic Properties of Fe3O4/BN, Fe3O4(Pt)/BN, and FePt/BN Heterogeneous Nanomaterials in CO2 Hydrogenation Reaction: Experimental and Theoretical Insights</title>
+      <link>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,11 +17,11 @@ main:
     url: /ru/#news
     weight: 13
   - name: Опыт
-    url: /ru/experience/
+    url: experience/
     weight: 20
   - name: Проекты
-    url: /ru/projects/
+    url: projects/
     weight: 30
   - name: Курсы
-    url: /ru/teaching/
+    url: teaching/
     weight: 40
