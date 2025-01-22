@@ -5,7 +5,7 @@
 
 main:
   - name: Биография
-    url: /
+    url: ""
     weight: 10
   - name: Публикации
     url: '#papers'
