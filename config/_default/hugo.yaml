@@ -9,7 +9,7 @@ module:
 # Website name
 title: Hugo Academic CV Theme
 # Website URL
-baseURL: '/'
+baseURL: 'https://volkovilia.github.io/'
 
 ############################
 ## LANGUAGE
