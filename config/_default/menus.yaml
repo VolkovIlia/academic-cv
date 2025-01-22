@@ -8,20 +8,20 @@ main:
     url: /
     weight: 10
   - name: Публикации
-    url: /#papers
+    url: /ru/#papers
     weight: 11
   - name: Выступления
-    url: /#talks
+    url: /ru/#talks
     weight: 12
   - name: Новости
-    url: /#news
+    url: /ru/#news
     weight: 13
   - name: Опыт
-    url: experience/
+    url: /ru/experience/
     weight: 20
   - name: Проекты
-    url: projects/
+    url: /ru/projects/
     weight: 30
   - name: Курсы
-    url: teaching/
+    url: /ru/teaching/
     weight: 40
