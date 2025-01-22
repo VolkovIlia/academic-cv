@@ -8,13 +8,13 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: /ru/#papers
+    url: /en/#papers
     weight: 11
   - name: Talks
-    url: /ru/#talks
+    url: /en/#talks
     weight: 12
   - name: News
-    url: /ru/#news
+    url: /en/#news
     weight: 13
   - name: Experience
     url: experience/
