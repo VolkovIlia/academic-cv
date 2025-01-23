@@ -53,7 +53,7 @@ sections:
       title: '📚 Исследования'
       subtitle: ''
       text: |-
-        Я исследователь в области материалловедения.
+        Я исследователь в области материаловедения.
     design:
       columns: '1'
   # - block: collection
@@ -78,16 +78,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Выступления
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Выступления
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   # - block: collection
   #   id: news
   #   content:

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/ru/event/</link>
       <atom:link href="http://localhost:1313/ru/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Mon, 17 May 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,23 +13,146 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
+      <title>НАНОСТРУКТУРЫ (Cu,Zn)/h-BN ДЛЯ ГЕТЕРОГЕННОГО КАТАЛИЗА</title>
+      <link>http://localhost:1313/ru/event/fti-2021/</link>
+      <pubDate>Mon, 17 May 2021 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/event/fti-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>НАНОСТРУКТУРЫ (Cu,Zn)/h-BN ДЛЯ ГЕТЕРОГЕННОГО КАТАЛИЗА</title>
+      <link>http://localhost:1313/ru/event/roscatalysis-2021/</link>
+      <pubDate>Mon, 17 May 2021 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/event/roscatalysis-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>НАНОСТРУКТУРЫ (Cu,Zn)/h-BN ДЛЯ ГЕТЕРОГЕННОГО КАТАЛИЗА</title>
+      <link>http://localhost:1313/ru/event/shs-2019/</link>
+      <pubDate>Mon, 17 May 2021 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/event/shs-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Синтез и изучение структуры гибридных наночастиц на основе гексагонального нитрида бора и платины</title>
+      <link>http://localhost:1313/ru/event/lomonosov-2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/event/lomonosov-2021/</guid>
+      <description>&lt;p&gt;Железо – один из перспективных металлов, широко применяемых в гетерогенном катализе. Активное развитие нанотехнологий в последние годы позволило существенно расширить возможности нанокатализаторов на основе железа. Добавление к железу щелочных металлов, например Na и K, позволяет изменять селективность гетерогенных катализаторов. Существенное повышение каталитических свойств может достигаться за счет использования носителя катализатора, который способствует повышению дисперсности каталитически активной фазы, тем самым увеличивая количество активных центров. Одним из перспективных материалов носителей является гексагональный нитрид бора (h-BN), к основным преимуществам которого можно отнести высокую термическую стабильность, химическую инертность, а также возможность формирования различных двумерных и трехмерных структур с развитой поверхностью. В данной работе были синтезированы и исследованы гетерогенные наночастицы Fe,Na/h-BN.
+Гетерогенные катализаторы на носителе h-BN получали из водного раствора нитрата   железа 3 и натриевой селитры путем осаждения гидроксида железа при подщелачивании среды и пропитки. Суспензии наночастиц h-BN готовили путем ультразвуковой обработки при комнатной температуре. Затем в суспензию добавлялись нитрат железа 3 из расчета 10 % масс. металла относительно массы h-BN. Далее в суспензию по каплям добавлялся раствор едкого калия при постоянном перемешивании. Полученная суспензия сепарировалась в центрифуге, твердый осадок промывался дистиллированной водой и высушивался, а затем пропитывался раствором натриевой селитры. Полученный порошок отжигался в протоке водорода при 500 °С в течение 12 часов для восстановления частиц металлической фазы.
+Сканирующая электронная микроспория показала, что металл распределен по поверхности нитрида бора равномерно, а средний размер частиц составляет ~ 10 нм. Энергодисперсионный спектр отчетливо свидетельствует о наличии натрия в материале.&lt;br&gt;
+Каталитические свойства полученного материала были исследованы в модельной реакции гидрирования СО2.
+Таким образом, в результате проведенной работы был синтезирован перспективный катализатор гидрирования СО2 - Fe,Na/h-BN.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Синтез и изучение структуры гибридных наночастиц на основе гексагонального нитрида бора и платины</title>
+      <link>http://localhost:1313/ru/event/lomonosov-2019/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/event/lomonosov-2019/</guid>
+      <description>&lt;p&gt;Гибридные наноматериалы с каждым годом находят все больше применений в самых разнообразных областях науки и техники: в медицине, химических технологиях, технологиях создания детекторов и др.&lt;/p&gt;
+&lt;p&gt;Одним из перспективных направлений применения данного класса материалов является гетерогенный катализ. Совместное использование эффективного носителя и металла-катализатора создает синергетический эффект, способствуя увеличению каталитической активности каталитической системы в целом. В данной работе в качестве каталитического агента использована платина, известная своей высокой каталитической активностью. В качестве носителя был использован наноразмерный порошок h-BN. Основными преимуществами применения h-BN является его высокая химическая стабильность и устойчивость к окислению вплоть до высоких температур, а также большая площадь удельной поверхности. Гибридные наночастицы были получены методом пропитки частиц h-BN водным раствором H2PtCl4, просушки и восстановления платины из платинохлористоводородной кислоты в протоке водорода при температуре 350 С. Полученные материалы исследованы методами СЭМ и ПЭМ. Платина распределена равномерно по поверхности керамики BN. Показано, что размер BN частиц носителя катализатора составляет в среднем 50-60 нм, а размер частиц платины не превышает 5 нм.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/ru/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+      <description>&lt;!-- --- --&gt;
+&lt;!-- # title: Example Talk --&gt;
+&lt;!----&gt;
+&lt;!-- event: Hugo Blox Builder Conference --&gt;
+&lt;!-- event_url: https://example.org --&gt;
+&lt;!----&gt;
+&lt;!-- location: Hugo Blox Builder HQ --&gt;
+&lt;!-- address: --&gt;
+&lt;!--   street: 450 Serra Mall --&gt;
+&lt;!--   city: Stanford --&gt;
+&lt;!--   region: CA --&gt;
+&lt;!--   postcode: &#39;94305&#39; --&gt;
+&lt;!--   country: United States --&gt;
+&lt;!----&gt;
+&lt;!-- summary: An example talk using Hugo Blox Builder&#39;s Markdown slides feature. --&gt;
+&lt;!-- abstract: &#39;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&#39; --&gt;
+&lt;!----&gt;
+&lt;!-- # Talk start and end times. --&gt;
+&lt;!-- #   End time can optionally be hidden by prefixing the line with `#`. --&gt;
+&lt;!-- date: &#39;2030-06-01T13:00:00Z&#39; --&gt;
+&lt;!-- date_end: &#39;2030-06-01T15:00:00Z&#39; --&gt;
+&lt;!-- all_day: false --&gt;
+&lt;!----&gt;
+&lt;!-- # Schedule page publish date (NOT talk date). --&gt;
+&lt;!-- publishDate: &#39;2017-01-01T00:00:00Z&#39; --&gt;
+&lt;!----&gt;
+&lt;!-- authors: --&gt;
+&lt;!--   - admin --&gt;
+&lt;!----&gt;
+&lt;!-- tags: [] --&gt;
+&lt;!----&gt;
+&lt;!-- # Is this a featured talk? (true/false) --&gt;
+&lt;!-- featured: false --&gt;
+&lt;!----&gt;
+&lt;!-- image: --&gt;
+&lt;!--   caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)&#39; --&gt;
+&lt;!--   focal_point: Right --&gt;
+&lt;!----&gt;
+&lt;!-- #links: --&gt;
+&lt;!-- #  - icon: twitter --&gt;
+&lt;!-- #    icon_pack: fab --&gt;
+&lt;!-- #    name: Follow --&gt;
+&lt;!-- #    url: https://twitter.com/georgecushen --&gt;
+&lt;!-- url_code: &#39;https://github.com&#39; --&gt;
+&lt;!-- url_pdf: &#39;&#39; --&gt;
+&lt;!-- url_slides: &#39;https://slideshare.net&#39; --&gt;
+&lt;!-- url_video: &#39;https://youtube.com&#39; --&gt;
+&lt;!----&gt;
+&lt;!-- # Markdown Slides (optional). --&gt;
+&lt;!-- #   Associate this talk with Markdown slides. --&gt;
+&lt;!-- #   Simply enter your slide deck&#39;s filename without extension. --&gt;
+&lt;!-- #   E.g. `slides = &#34;example-slides&#34;` references `content/slides/example-slides.md`. --&gt;
+&lt;!-- #   Otherwise, set `slides = &#34;&#34;`. --&gt;
+&lt;!-- slides: &#34;&#34; --&gt;
+&lt;!----&gt;
+&lt;!-- # Projects (optional). --&gt;
+&lt;!-- #   Associate this post with one or more of your projects. --&gt;
+&lt;!-- #   Simply enter your project&#39;s folder or file name without extension. --&gt;
+&lt;!-- #   E.g. `projects = [&#34;internal-project&#34;]` references `content/project/deep-learning/index.md`. --&gt;
+&lt;!-- #   Otherwise, set `projects = []`. --&gt;
+&lt;!-- projects: --&gt;
+&lt;!--   - example --&gt;
+&lt;!-- --- --&gt;
+&lt;!----&gt;
+&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p&gt;&amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!-- Click on the **Slides** button above to view the built-in slides feature. --&gt;
+&lt;!--&lt;/span&gt;
+&lt;/div&gt; --&gt;
+&lt;!----&gt;
+&lt;!-- Slides can be added in a few ways: --&gt;
+&lt;!----&gt;
+&lt;!-- - **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file --&gt;
+&lt;!-- - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file --&gt;
+&lt;!-- - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/). --&gt;
+&lt;!----&gt;
+&lt;!-- Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     

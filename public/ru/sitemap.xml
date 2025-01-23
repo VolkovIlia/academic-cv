@@ -2,34 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ru/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/event/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/event/example/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ru/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/event/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ru/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -532,6 +504,36 @@
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/event/</loc>
+    <lastmod>2021-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-EN"
+                href="http://localhost:1313/en/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="http://localhost:1313/ru/event/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/event/fti-2021/</loc>
+    <lastmod>2021-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/event/roscatalysis-2021/</loc>
+    <lastmod>2021-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/event/shs-2019/</loc>
+    <lastmod>2021-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/event/lomonosov-2021/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/ru/publication/volkov-extended-uv-detection-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -553,6 +555,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ru/tags/carbon-monoxide/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/catalysis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -597,6 +603,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ru/tags/fept-nanoparticles/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/h-bn/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -704,6 +714,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/project/rsf-20-79-10286/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -726,6 +740,10 @@
   </url><url>
     <loc>http://localhost:1313/ru/publication/kuskov-study-structure-copperbased-2019-a/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/event/lomonosov-2019/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ru/publication/preprint/</loc>
@@ -824,6 +842,19 @@
                 rel="alternate"
                 hreflang="ru-RU"
                 href="http://localhost:1313/ru/publication_types/paper-conference/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/event/example/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-EN"
+                href="http://localhost:1313/en/event/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="http://localhost:1313/ru/event/example/"
                 />
   </url>
 </urlset>
