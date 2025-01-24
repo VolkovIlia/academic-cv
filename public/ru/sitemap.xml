@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ru/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -13,10 +13,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/projects/"
+                href="http://localhost:1313/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/get-started/</loc>
+    <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -27,10 +27,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/get-started/"
+                href="http://localhost:1313/post/get-started/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/academic/</loc>
+    <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -41,10 +41,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/academic/"
+                href="http://localhost:1313/tags/academic/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -55,10 +55,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/"
+                href="http://localhost:1313/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -69,10 +69,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/hugo-blox/"
+                href="http://localhost:1313/tags/hugo-blox/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -83,10 +83,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/markdown/"
+                href="http://localhost:1313/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -97,10 +97,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -111,10 +111,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/hugo/"
+                href="http://localhost:1313/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/project/pandas/</loc>
+    <loc>http://localhost:1313/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -125,10 +125,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/pandas/"
+                href="http://localhost:1313/project/pandas/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -139,10 +139,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/"
+                href="http://localhost:1313/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/project/pytorch/</loc>
+    <loc>http://localhost:1313/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -153,10 +153,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/pytorch/"
+                href="http://localhost:1313/project/pytorch/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/project/scikit/</loc>
+    <loc>http://localhost:1313/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -167,10 +167,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/scikit/"
+                href="http://localhost:1313/project/scikit/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/second-brain/</loc>
+    <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -181,10 +181,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/second-brain/"
+                href="http://localhost:1313/tags/second-brain/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -195,10 +195,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/wowchemy/"
+                href="http://localhost:1313/tags/wowchemy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/second-brain/</loc>
+    <loc>http://localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -209,10 +209,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/second-brain/"
+                href="http://localhost:1313/post/second-brain/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/data-visualization/</loc>
+    <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -223,10 +223,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/data-visualization/"
+                href="http://localhost:1313/post/data-visualization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/teach-courses/</loc>
+    <loc>http://localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -237,10 +237,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/teach-courses/"
+                href="http://localhost:1313/post/teach-courses/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -251,10 +251,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/experience/"
+                href="http://localhost:1313/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -265,10 +265,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/hugo-blox-builder/"
+                href="http://localhost:1313/tags/hugo-blox-builder/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -279,10 +279,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/javascript/"
+                href="http://localhost:1313/tags/javascript/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -293,10 +293,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/teaching/js/"
+                href="http://localhost:1313/teaching/js/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/teaching/python/</loc>
+    <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -307,10 +307,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/teaching/python/"
+                href="http://localhost:1313/teaching/python/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -321,10 +321,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/python/"
+                href="http://localhost:1313/tags/python/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -335,10 +335,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/teaching/"
+                href="http://localhost:1313/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/project-management/</loc>
+    <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -349,10 +349,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/project-management/"
+                href="http://localhost:1313/post/project-management/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -363,26 +363,26 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/article-journal/"
+                href="http://localhost:1313/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/co-oxidation-reaction/</loc>
+    <loc>http://localhost:1313/tags/co-oxidation-reaction/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hexagonal-boron-oxynitride/</loc>
+    <loc>http://localhost:1313/tags/hexagonal-boron-oxynitride/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
+    <loc>http://localhost:1313/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/platinum/</loc>
+    <loc>http://localhost:1313/tags/platinum/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -393,14 +393,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/single-atom-catalyst/</loc>
+    <loc>http://localhost:1313/tags/single-atom-catalyst/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -411,10 +411,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/"
+                href="http://localhost:1313/publication/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -425,86 +425,86 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/au/bno-and-pt/bno-nanohybrids/</loc>
+    <loc>http://localhost:1313/tags/au/bno-and-pt/bno-nanohybrids/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/carbon-dioxide-hydrogenation/</loc>
+    <loc>http://localhost:1313/tags/carbon-dioxide-hydrogenation/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/carbon-monoxide-oxidation/</loc>
+    <loc>http://localhost:1313/tags/carbon-monoxide-oxidation/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/catalytic-activity/</loc>
+    <loc>http://localhost:1313/tags/catalytic-activity/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hexagonal-bn/</loc>
+    <loc>http://localhost:1313/tags/hexagonal-bn/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
+    <loc>http://localhost:1313/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/matveev-new-insight-mechanisms-2022/</loc>
+    <loc>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/bnosubx/sub-nanocatalyst/</loc>
+    <loc>http://localhost:1313/tags/bnosubx/sub-nanocatalyst/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/dft-calculations/</loc>
+    <loc>http://localhost:1313/tags/dft-calculations/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/discoloration/</loc>
+    <loc>http://localhost:1313/tags/discoloration/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/methylene-blue/</loc>
+    <loc>http://localhost:1313/tags/methylene-blue/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/photodegradation/</loc>
+    <loc>http://localhost:1313/tags/photodegradation/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/sorption/</loc>
+    <loc>http://localhost:1313/tags/sorption/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
+    <loc>http://localhost:1313/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/dft-analysis/</loc>
+    <loc>http://localhost:1313/tags/dft-analysis/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/molybdenum-sulfide/</loc>
+    <loc>http://localhost:1313/tags/molybdenum-sulfide/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/mossubx/subosuby/sub/bnsubx/subosuby/sub-nanohybrids/</loc>
+    <loc>http://localhost:1313/tags/mossubx/subosuby/sub/bnsubx/subosuby/sub-nanohybrids/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/mosxoy/bnxoy-nanohybrids/</loc>
+    <loc>http://localhost:1313/tags/mosxoy/bnxoy-nanohybrids/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/photocatalytic-degradation-of-methylene-blue/</loc>
+    <loc>http://localhost:1313/tags/photocatalytic-degradation-of-methylene-blue/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -515,238 +515,238 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/event/"
+                href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/event/fti-2021/</loc>
+    <loc>http://localhost:1313/event/fti-2021/</loc>
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/roscatalysis-2021/</loc>
+    <loc>http://localhost:1313/event/roscatalysis-2021/</loc>
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/shs-2019/</loc>
+    <loc>http://localhost:1313/event/shs-2019/</loc>
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/lomonosov-2021/</loc>
+    <loc>http://localhost:1313/event/lomonosov-2021/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-extended-uv-detection-2021/</loc>
+    <loc>http://localhost:1313/publication/volkov-extended-uv-detection-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/binary-alloys/</loc>
+    <loc>http://localhost:1313/tags/binary-alloys/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/borate-solutions/</loc>
+    <loc>http://localhost:1313/tags/borate-solutions/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/boron-nitride/</loc>
+    <loc>http://localhost:1313/tags/boron-nitride/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/carbon-dioxide/</loc>
+    <loc>http://localhost:1313/tags/carbon-dioxide/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/carbon-monoxide/</loc>
+    <loc>http://localhost:1313/tags/carbon-monoxide/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/catalysis/</loc>
+    <loc>http://localhost:1313/tags/catalysis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/catalytic-properties/</loc>
+    <loc>http://localhost:1313/tags/catalytic-properties/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/chlorine-compounds/</loc>
+    <loc>http://localhost:1313/tags/chlorine-compounds/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/co2-hydrogenation/</loc>
+    <loc>http://localhost:1313/tags/co2-hydrogenation/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/ethylene/</loc>
+    <loc>http://localhost:1313/tags/ethylene/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/ethylene-glycol/</loc>
+    <loc>http://localhost:1313/tags/ethylene-glycol/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/fe-based-catalysts/</loc>
+    <loc>http://localhost:1313/tags/fe-based-catalysts/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/fe-pt-nanoparticle/</loc>
+    <loc>http://localhost:1313/tags/fe-pt-nanoparticle/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/fe3o4/</loc>
+    <loc>http://localhost:1313/tags/fe3o4/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/fe3o4-nanoparticles/</loc>
+    <loc>http://localhost:1313/tags/fe3o4-nanoparticles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/feo/</loc>
+    <loc>http://localhost:1313/tags/feo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/fept-nanoparticles/</loc>
+    <loc>http://localhost:1313/tags/fept-nanoparticles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/h-bn/</loc>
+    <loc>http://localhost:1313/tags/h-bn/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/h-bn-coatings/</loc>
+    <loc>http://localhost:1313/tags/h-bn-coatings/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/h-bn-coatings./</loc>
+    <loc>http://localhost:1313/tags/h-bn-coatings./</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/heterogeneous-catalysis/</loc>
+    <loc>http://localhost:1313/tags/heterogeneous-catalysis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/heterogeneous-catalysts/</loc>
+    <loc>http://localhost:1313/tags/heterogeneous-catalysts/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hexagonal-bn-support/</loc>
+    <loc>http://localhost:1313/tags/hexagonal-bn-support/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hexagonal-boron-nitride/</loc>
+    <loc>http://localhost:1313/tags/hexagonal-boron-nitride/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hexagonal-boron-nitride-h-bn/</loc>
+    <loc>http://localhost:1313/tags/hexagonal-boron-nitride-h-bn/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/hydrogenation/</loc>
+    <loc>http://localhost:1313/tags/hydrogenation/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/iii-v-semiconductors/</loc>
+    <loc>http://localhost:1313/tags/iii-v-semiconductors/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/interaction-mechanisms/</loc>
+    <loc>http://localhost:1313/tags/interaction-mechanisms/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/intermediate-compound/</loc>
+    <loc>http://localhost:1313/tags/intermediate-compound/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/iron-oxides/</loc>
+    <loc>http://localhost:1313/tags/iron-oxides/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/magnetite/</loc>
+    <loc>http://localhost:1313/tags/magnetite/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
+    <loc>http://localhost:1313/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/molecular-dynamic-simulations/</loc>
+    <loc>http://localhost:1313/tags/molecular-dynamic-simulations/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/molecular-dynamics/</loc>
+    <loc>http://localhost:1313/tags/molecular-dynamics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/nanomaterials/</loc>
+    <loc>http://localhost:1313/tags/nanomaterials/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/nanoparticles/</loc>
+    <loc>http://localhost:1313/tags/nanoparticles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/nanostructured-materials/</loc>
+    <loc>http://localhost:1313/tags/nanostructured-materials/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
+    <loc>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/reaction-intermediates/</loc>
+    <loc>http://localhost:1313/tags/reaction-intermediates/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/sintering/</loc>
+    <loc>http://localhost:1313/tags/sintering/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/synthesis-chemical/</loc>
+    <loc>http://localhost:1313/tags/synthesis-chemical/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
+    <loc>http://localhost:1313/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/thermal-treatment/</loc>
+    <loc>http://localhost:1313/tags/thermal-treatment/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/thermal-treatment./</loc>
+    <loc>http://localhost:1313/tags/thermal-treatment./</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/project/rsf-20-79-10286/</loc>
+    <loc>http://localhost:1313/project/rsf-20-79-10286/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
+    <loc>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/nicu/bn-nanohybrids/</loc>
+    <loc>http://localhost:1313/tags/nicu/bn-nanohybrids/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/methanol-steam-reforming/</loc>
+    <loc>http://localhost:1313/tags/methanol-steam-reforming/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/microstructure/</loc>
+    <loc>http://localhost:1313/tags/microstructure/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
+    <loc>http://localhost:1313/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kuskov-study-structure-copperbased-2019-a/</loc>
+    <loc>http://localhost:1313/publication/kuskov-study-structure-copperbased-2019-a/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/lomonosov-2019/</loc>
+    <loc>http://localhost:1313/event/lomonosov-2019/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/preprint/</loc>
+    <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -757,10 +757,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/preprint/"
+                href="http://localhost:1313/publication/preprint/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication_types/article/</loc>
+    <loc>http://localhost:1313/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -771,10 +771,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/article/"
+                href="http://localhost:1313/publication_types/article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -785,10 +785,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/large-language-models/"
+                href="http://localhost:1313/tags/large-language-models/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication/journal-article/</loc>
+    <loc>http://localhost:1313/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -799,10 +799,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/journal-article/"
+                href="http://localhost:1313/publication/journal-article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/source-themes/</loc>
+    <loc>http://localhost:1313/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -813,10 +813,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/source-themes/"
+                href="http://localhost:1313/tags/source-themes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -827,10 +827,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/conference-paper/"
+                href="http://localhost:1313/publication/conference-paper/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -841,10 +841,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/paper-conference/"
+                href="http://localhost:1313/publication_types/paper-conference/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -854,7 +854,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/event/example/"
+                href="http://localhost:1313/event/example/"
                 />
   </url>
 </urlset>

@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/event/example/"
+                href="http://localhost:1313/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,7 +22,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/event/"
+                href="http://localhost:1313/event/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,7 +36,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/projects/"
+                href="http://localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,7 +50,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/get-started/"
+                href="http://localhost:1313/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -64,7 +64,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/academic/"
+                href="http://localhost:1313/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -78,7 +78,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/"
+                href="http://localhost:1313/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,7 +92,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/hugo-blox/"
+                href="http://localhost:1313/tags/hugo-blox/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -106,7 +106,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/markdown/"
+                href="http://localhost:1313/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -120,7 +120,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -134,7 +134,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/hugo/"
+                href="http://localhost:1313/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -148,7 +148,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/pandas/"
+                href="http://localhost:1313/project/pandas/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,7 +162,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/"
+                href="http://localhost:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -176,7 +176,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/pytorch/"
+                href="http://localhost:1313/project/pytorch/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -190,7 +190,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/project/scikit/"
+                href="http://localhost:1313/project/scikit/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -204,7 +204,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/second-brain/"
+                href="http://localhost:1313/tags/second-brain/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,7 +218,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/wowchemy/"
+                href="http://localhost:1313/tags/wowchemy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -232,7 +232,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/second-brain/"
+                href="http://localhost:1313/post/second-brain/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -246,7 +246,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/data-visualization/"
+                href="http://localhost:1313/post/data-visualization/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -260,7 +260,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/teach-courses/"
+                href="http://localhost:1313/post/teach-courses/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -274,7 +274,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/experience/"
+                href="http://localhost:1313/experience/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,7 +288,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/hugo-blox-builder/"
+                href="http://localhost:1313/tags/hugo-blox-builder/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -302,7 +302,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/javascript/"
+                href="http://localhost:1313/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -316,7 +316,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/teaching/js/"
+                href="http://localhost:1313/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -330,7 +330,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/teaching/python/"
+                href="http://localhost:1313/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -344,7 +344,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/python/"
+                href="http://localhost:1313/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -358,7 +358,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/teaching/"
+                href="http://localhost:1313/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -372,7 +372,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/post/project-management/"
+                href="http://localhost:1313/post/project-management/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -386,7 +386,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -400,7 +400,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/preprint/"
+                href="http://localhost:1313/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -414,7 +414,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/article/"
+                href="http://localhost:1313/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -428,7 +428,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/large-language-models/"
+                href="http://localhost:1313/tags/large-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -442,7 +442,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -456,7 +456,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/"
+                href="http://localhost:1313/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -470,7 +470,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/journal-article/"
+                href="http://localhost:1313/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -484,7 +484,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/article-journal/"
+                href="http://localhost:1313/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -498,7 +498,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/source-themes/"
+                href="http://localhost:1313/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -512,7 +512,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication/conference-paper/"
+                href="http://localhost:1313/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -526,7 +526,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/ru/publication_types/paper-conference/"
+                href="http://localhost:1313/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"

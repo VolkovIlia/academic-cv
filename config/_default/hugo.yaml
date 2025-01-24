@@ -26,7 +26,7 @@ languages:
    contentDir: 'content/en'
 defaultContentLanguage: ru
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
