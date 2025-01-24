@@ -7,7 +7,7 @@ module:
   - path: github.com/hugomods/icons/vendors/bootstrap
   - path: github.com/hugomods/icons/vendors/font-awesome
 # Website name
-title: Hugo Academic CV Theme
+title: Volkov CV
 # Website URL
 baseURL: 'https://volkovilia.github.io/'
 
