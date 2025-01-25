@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Загрузить резюме
+        text: Резюме
         url: uploads/resume.ru.pdf
     design:
       css_class: dark
