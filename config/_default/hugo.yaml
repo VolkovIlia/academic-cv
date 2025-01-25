@@ -9,7 +9,7 @@ module:
 # Website name
 title: Volkov CV
 # Website URL
-baseURL: 'https://volkovilia.github.io/'
+baseURL: 'https://volkov.blog/'
 
 ############################
 ## LANGUAGE
