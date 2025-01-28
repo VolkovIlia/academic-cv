@@ -738,7 +738,7 @@
 
 
 
-&lt;div id=&#34;chart-584692731&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-824936517&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -756,7 +756,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-584692731&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-824936517&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -948,7 +948,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-283165947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-128369547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -966,7 +966,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-283165947&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-128369547&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1158,7 +1158,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-283165947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-128369547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -1176,7 +1176,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-283165947&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-128369547&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2956,9 +2956,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/event/lomonosov-2019/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/lomonosov-2019/</guid>
-      <description>&lt;p&gt;Гибридные наноматериалы с каждым годом находят все больше применений в самых разнообразных областях науки и техники: в медицине, химических технологиях, технологиях создания детекторов и др.&lt;/p&gt;
-&lt;p&gt;Одним из перспективных направлений применения данного класса материалов является гетерогенный катализ. Совместное использование эффективного носителя и металла-катализатора создает синергетический эффект, способствуя увеличению каталитической активности каталитической системы в целом. В данной работе в качестве каталитического агента использована платина, известная своей высокой каталитической активностью. В качестве носителя был использован наноразмерный порошок h-BN. Основными преимуществами применения h-BN является его высокая химическая стабильность и устойчивость к окислению вплоть до высоких температур, а также большая площадь удельной поверхности. Гибридные наночастицы были получены методом пропитки частиц h-BN водным раствором H2PtCl4, просушки и восстановления платины из платинохлористоводородной кислоты в протоке водорода при температуре 350 С. Полученные материалы исследованы методами СЭМ и ПЭМ. Платина распределена равномерно по поверхности керамики BN. Показано, что размер BN частиц носителя катализатора составляет в среднем 50-60 нм, а размер частиц платины не превышает 5 нм.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

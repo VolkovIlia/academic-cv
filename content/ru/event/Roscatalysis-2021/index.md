@@ -64,4 +64,3 @@ slides: ""
 projects:
   - RFBR-20-33-90070
 ---
-
