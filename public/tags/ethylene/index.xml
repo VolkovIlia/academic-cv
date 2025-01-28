@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethylene | Volkov CV</title>
-    <link>http://localhost:1313/tags/ethylene/</link>
-      <atom:link href="http://localhost:1313/tags/ethylene/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://volkov.blog/tags/ethylene/</link>
+      <atom:link href="https://volkov.blog/tags/ethylene/index.xml" rel="self" type="application/rss+xml" />
     <description>Ethylene</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
+      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
       <title>Ethylene</title>
-      <link>http://localhost:1313/tags/ethylene/</link>
+      <link>https://volkov.blog/tags/ethylene/</link>
     </image>
     
     <item>
       <title>Microstructure and catalytic properties of Fe3O4/BN, Fe3O4(Pt)/BN, and FePt/BN heterogeneous nanomaterials in CO2 hydrogenation reaction: Experimental and theoretical insights</title>
-      <link>http://localhost:1313/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
+      <link>https://volkov.blog/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>
+      <guid>https://volkov.blog/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Microstructure and catalytic properties of Fe3O4/BN, Fe3O4(Pt)/BN, and FePt/BN heterogeneous nanomaterials in CO2 hydrogenation reaction: Experimental and theoretical insights</title>
-      <link>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
+      <link>https://volkov.blog/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>
+      <guid>https://volkov.blog/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

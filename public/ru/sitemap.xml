@@ -2,785 +2,785 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/event/example/</loc>
+    <loc>https://volkov.blog/en/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/event/</loc>
+    <loc>https://volkov.blog/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>https://volkov.blog/en/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://volkov.blog/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/projects/</loc>
+    <loc>https://volkov.blog/ru/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/get-started/</loc>
+    <loc>https://volkov.blog/en/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
+    <loc>https://volkov.blog/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/post/get-started/</loc>
+    <loc>https://volkov.blog/ru/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
+    <loc>https://volkov.blog/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/</loc>
+    <loc>https://volkov.blog/en/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://volkov.blog/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/post/</loc>
+    <loc>https://volkov.blog/ru/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc>
+    <loc>https://volkov.blog/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://volkov.blog/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://volkov.blog/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://volkov.blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/tags/"
+                href="https://volkov.blog/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://volkov.blog/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/pandas/</loc>
+    <loc>https://volkov.blog/en/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pandas/</loc>
+    <loc>https://volkov.blog/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/project/pandas/</loc>
+    <loc>https://volkov.blog/ru/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://volkov.blog/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/pytorch/</loc>
+    <loc>https://volkov.blog/en/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pytorch/</loc>
+    <loc>https://volkov.blog/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/project/pytorch/</loc>
+    <loc>https://volkov.blog/ru/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/scikit/</loc>
+    <loc>https://volkov.blog/en/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/scikit/</loc>
+    <loc>https://volkov.blog/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/project/scikit/</loc>
+    <loc>https://volkov.blog/ru/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/second-brain/</loc>
+    <loc>https://volkov.blog/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/wowchemy/</loc>
+    <loc>https://volkov.blog/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/second-brain/</loc>
+    <loc>https://volkov.blog/en/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/second-brain/</loc>
+    <loc>https://volkov.blog/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/post/second-brain/</loc>
+    <loc>https://volkov.blog/ru/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/data-visualization/</loc>
+    <loc>https://volkov.blog/en/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/data-visualization/</loc>
+    <loc>https://volkov.blog/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/post/data-visualization/</loc>
+    <loc>https://volkov.blog/ru/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/teach-courses/</loc>
+    <loc>https://volkov.blog/en/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/teach-courses/</loc>
+    <loc>https://volkov.blog/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/post/teach-courses/</loc>
+    <loc>https://volkov.blog/ru/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/experience/</loc>
+    <loc>https://volkov.blog/en/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
+    <loc>https://volkov.blog/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://volkov.blog/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/teaching/js/</loc>
+    <loc>https://volkov.blog/en/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/teaching/js/</loc>
+    <loc>https://volkov.blog/ru/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/js/</loc>
+    <loc>https://volkov.blog/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/teaching/python/</loc>
+    <loc>https://volkov.blog/en/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/teaching/python/</loc>
+    <loc>https://volkov.blog/ru/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/python/</loc>
+    <loc>https://volkov.blog/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://volkov.blog/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/teaching/</loc>
+    <loc>https://volkov.blog/en/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/teaching/</loc>
+    <loc>https://volkov.blog/ru/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://volkov.blog/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://volkov.blog/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/experience/</loc>
+    <loc>https://volkov.blog/ru/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/project-management/</loc>
+    <loc>https://volkov.blog/en/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/project-management/</loc>
+    <loc>https://volkov.blog/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/post/project-management/</loc>
+    <loc>https://volkov.blog/ru/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>https://volkov.blog/publication_types/article-journal/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/co-oxidation-reaction/</loc>
+    <loc>https://volkov.blog/tags/co-oxidation-reaction/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hexagonal-boron-oxynitride/</loc>
+    <loc>https://volkov.blog/tags/hexagonal-boron-oxynitride/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
+    <loc>https://volkov.blog/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
+    <loc>https://volkov.blog/ru/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/platinum/</loc>
+    <loc>https://volkov.blog/tags/platinum/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://volkov.blog/publication_types/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/publication_types/"
+                href="https://volkov.blog/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/publication_types/"
+                href="https://volkov.blog/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/single-atom-catalyst/</loc>
+    <loc>https://volkov.blog/tags/single-atom-catalyst/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://volkov.blog/publication/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/</loc>
+    <loc>https://volkov.blog/ru/publication/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://volkov.blog/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/</loc>
+    <loc>https://volkov.blog/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://volkov.blog/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://volkov.blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://localhost:1313/"
+                href="https://volkov.blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/au/bno-and-pt/bno-nanohybrids/</loc>
+    <loc>https://volkov.blog/tags/au/bno-and-pt/bno-nanohybrids/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/carbon-dioxide-hydrogenation/</loc>
+    <loc>https://volkov.blog/tags/carbon-dioxide-hydrogenation/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/carbon-monoxide-oxidation/</loc>
+    <loc>https://volkov.blog/tags/carbon-monoxide-oxidation/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/catalytic-activity/</loc>
+    <loc>https://volkov.blog/tags/catalytic-activity/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hexagonal-bn/</loc>
+    <loc>https://volkov.blog/tags/hexagonal-bn/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
+    <loc>https://volkov.blog/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
+    <loc>https://volkov.blog/ru/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</loc>
+    <loc>https://volkov.blog/publication/matveev-new-insight-mechanisms-2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/matveev-new-insight-mechanisms-2022/</loc>
+    <loc>https://volkov.blog/ru/publication/matveev-new-insight-mechanisms-2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/bno_textrmx-nanocatalyst/</loc>
+    <loc>https://volkov.blog/tags/bno_textrmx-nanocatalyst/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dft-calculations/</loc>
+    <loc>https://volkov.blog/tags/dft-calculations/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/discoloration/</loc>
+    <loc>https://volkov.blog/tags/discoloration/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/methylene-blue/</loc>
+    <loc>https://volkov.blog/tags/methylene-blue/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/photodegradation/</loc>
+    <loc>https://volkov.blog/tags/photodegradation/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/sorption/</loc>
+    <loc>https://volkov.blog/tags/sorption/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://volkov.blog/event/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/</loc>
+    <loc>https://volkov.blog/ru/event/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/roscatalysis-2021/</loc>
+    <loc>https://volkov.blog/event/roscatalysis-2021/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/roscatalysis-2021/</loc>
+    <loc>https://volkov.blog/ru/event/roscatalysis-2021/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
+    <loc>https://volkov.blog/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dft-analysis/</loc>
+    <loc>https://volkov.blog/tags/dft-analysis/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/molybdenum-sulfide/</loc>
+    <loc>https://volkov.blog/tags/molybdenum-sulfide/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/mos_textrmxo_textrmy/bn_textrmxo_textrmy-nanohybrids/</loc>
+    <loc>https://volkov.blog/tags/mos_textrmxo_textrmy/bn_textrmxo_textrmy-nanohybrids/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/mosxoy/bnxoy-nanohybrids/</loc>
+    <loc>https://volkov.blog/tags/mosxoy/bnxoy-nanohybrids/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/photocatalytic-degradation-of-methylene-blue/</loc>
+    <loc>https://volkov.blog/tags/photocatalytic-degradation-of-methylene-blue/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/fti-2021/</loc>
+    <loc>https://volkov.blog/event/fti-2021/</loc>
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/fti-2021/</loc>
+    <loc>https://volkov.blog/ru/event/fti-2021/</loc>
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/lomonosov-2021/</loc>
+    <loc>https://volkov.blog/event/lomonosov-2021/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/lomonosov-2021/</loc>
+    <loc>https://volkov.blog/ru/event/lomonosov-2021/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-extended-uv-detection-2021/</loc>
+    <loc>https://volkov.blog/publication/volkov-extended-uv-detection-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-extended-uv-detection-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-extended-uv-detection-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/binary-alloys/</loc>
+    <loc>https://volkov.blog/tags/binary-alloys/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/borate-solutions/</loc>
+    <loc>https://volkov.blog/tags/borate-solutions/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/boron-nitride/</loc>
+    <loc>https://volkov.blog/tags/boron-nitride/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/carbon-dioxide/</loc>
+    <loc>https://volkov.blog/tags/carbon-dioxide/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/carbon-monoxide/</loc>
+    <loc>https://volkov.blog/tags/carbon-monoxide/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/catalysis/</loc>
+    <loc>https://volkov.blog/tags/catalysis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/catalytic-properties/</loc>
+    <loc>https://volkov.blog/tags/catalytic-properties/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/chlorine-compounds/</loc>
+    <loc>https://volkov.blog/tags/chlorine-compounds/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/co2-hydrogenation/</loc>
+    <loc>https://volkov.blog/tags/co2-hydrogenation/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ethylene/</loc>
+    <loc>https://volkov.blog/tags/ethylene/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ethylene-glycol/</loc>
+    <loc>https://volkov.blog/tags/ethylene-glycol/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fe-based-catalysts/</loc>
+    <loc>https://volkov.blog/tags/fe-based-catalysts/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fe-pt-nanoparticle/</loc>
+    <loc>https://volkov.blog/tags/fe-pt-nanoparticle/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fe3o4/</loc>
+    <loc>https://volkov.blog/tags/fe3o4/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fe3o4-nanoparticles/</loc>
+    <loc>https://volkov.blog/tags/fe3o4-nanoparticles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/feo/</loc>
+    <loc>https://volkov.blog/tags/feo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fept-nanoparticles/</loc>
+    <loc>https://volkov.blog/tags/fept-nanoparticles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/h-bn/</loc>
+    <loc>https://volkov.blog/tags/h-bn/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/h-bn-coatings/</loc>
+    <loc>https://volkov.blog/tags/h-bn-coatings/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/h-bn-coatings./</loc>
+    <loc>https://volkov.blog/tags/h-bn-coatings./</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/heterogeneous-catalysis/</loc>
+    <loc>https://volkov.blog/tags/heterogeneous-catalysis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/heterogeneous-catalysts/</loc>
+    <loc>https://volkov.blog/tags/heterogeneous-catalysts/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hexagonal-bn-support/</loc>
+    <loc>https://volkov.blog/tags/hexagonal-bn-support/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hexagonal-boron-nitride/</loc>
+    <loc>https://volkov.blog/tags/hexagonal-boron-nitride/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hexagonal-boron-nitride-h-bn/</loc>
+    <loc>https://volkov.blog/tags/hexagonal-boron-nitride-h-bn/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hydrogenation/</loc>
+    <loc>https://volkov.blog/tags/hydrogenation/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/iii-v-semiconductors/</loc>
+    <loc>https://volkov.blog/tags/iii-v-semiconductors/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/interaction-mechanisms/</loc>
+    <loc>https://volkov.blog/tags/interaction-mechanisms/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/intermediate-compound/</loc>
+    <loc>https://volkov.blog/tags/intermediate-compound/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/iron-oxides/</loc>
+    <loc>https://volkov.blog/tags/iron-oxides/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/magnetite/</loc>
+    <loc>https://volkov.blog/tags/magnetite/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
+    <loc>https://volkov.blog/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/molecular-dynamic-simulations/</loc>
+    <loc>https://volkov.blog/tags/molecular-dynamic-simulations/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/molecular-dynamics/</loc>
+    <loc>https://volkov.blog/tags/molecular-dynamics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nanomaterials/</loc>
+    <loc>https://volkov.blog/tags/nanomaterials/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nanoparticles/</loc>
+    <loc>https://volkov.blog/tags/nanoparticles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nanostructured-materials/</loc>
+    <loc>https://volkov.blog/tags/nanostructured-materials/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-nanostructures-cu-zn-hbn-2021/</loc>
+    <loc>https://volkov.blog/publication/volkov-nanostructures-cu-zn-hbn-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-nanostructures-cu-zn-hbn-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-nanostructures-cu-zn-hbn-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
+    <loc>https://volkov.blog/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <loc>https://volkov.blog/publication_types/paper-conference/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/kovalskii-pthbnnanostructures-2021/</loc>
+    <loc>https://volkov.blog/publication/kovalskii-pthbnnanostructures-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kovalskii-pthbnnanostructures-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/kovalskii-pthbnnanostructures-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/reaction-intermediates/</loc>
+    <loc>https://volkov.blog/tags/reaction-intermediates/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/sintering/</loc>
+    <loc>https://volkov.blog/tags/sintering/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/synthesis-chemical/</loc>
+    <loc>https://volkov.blog/tags/synthesis-chemical/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
+    <loc>https://volkov.blog/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/thermal-treatment/</loc>
+    <loc>https://volkov.blog/tags/thermal-treatment/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/thermal-treatment./</loc>
+    <loc>https://volkov.blog/tags/thermal-treatment./</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-nanochasticy-pt-hbno-2021/</loc>
+    <loc>https://volkov.blog/publication/volkov-nanochasticy-pt-hbno-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-nanochasticy-pt-hbno-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-nanochasticy-pt-hbno-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</loc>
+    <loc>https://volkov.blog/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/rsf-20-79-10286/</loc>
+    <loc>https://volkov.blog/project/rsf-20-79-10286/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/project/rsf-20-79-10286/</loc>
+    <loc>https://volkov.blog/ru/project/rsf-20-79-10286/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
+    <loc>https://volkov.blog/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
+    <loc>https://volkov.blog/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nicu/bn-nanohybrids/</loc>
+    <loc>https://volkov.blog/tags/nicu/bn-nanohybrids/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/methanol-steam-reforming/</loc>
+    <loc>https://volkov.blog/tags/methanol-steam-reforming/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/microstructure/</loc>
+    <loc>https://volkov.blog/tags/microstructure/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
+    <loc>https://volkov.blog/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
+    <loc>https://volkov.blog/ru/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/shs-2019/</loc>
+    <loc>https://volkov.blog/event/shs-2019/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/shs-2019/</loc>
+    <loc>https://volkov.blog/ru/event/shs-2019/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/kuskov-study-structure-copperbased-2019-a/</loc>
+    <loc>https://volkov.blog/publication/kuskov-study-structure-copperbased-2019-a/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/kuskov-study-structure-copperbased-2019-a/</loc>
+    <loc>https://volkov.blog/ru/publication/kuskov-study-structure-copperbased-2019-a/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/lomonosov-2019/</loc>
+    <loc>https://volkov.blog/event/lomonosov-2019/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/event/lomonosov-2019/</loc>
+    <loc>https://volkov.blog/ru/event/lomonosov-2019/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/publication/preprint/</loc>
+    <loc>https://volkov.blog/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
+    <loc>https://volkov.blog/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/preprint/</loc>
+    <loc>https://volkov.blog/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
+    <loc>https://volkov.blog/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/large-language-models/</loc>
+    <loc>https://volkov.blog/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/publication/</loc>
+    <loc>https://volkov.blog/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-synthesischaracterizationbn-2019/</loc>
+    <loc>https://volkov.blog/publication/volkov-synthesischaracterizationbn-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-synthesischaracterizationbn-2019/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-synthesischaracterizationbn-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/volkov-sintez-izuchenie-struktury-2019/</loc>
+    <loc>https://volkov.blog/publication/volkov-sintez-izuchenie-struktury-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/volkov-sintez-izuchenie-struktury-2019/</loc>
+    <loc>https://volkov.blog/ru/publication/volkov-sintez-izuchenie-struktury-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/publication/journal-article/</loc>
+    <loc>https://volkov.blog/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article/</loc>
+    <loc>https://volkov.blog/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/journal-article/</loc>
+    <loc>https://volkov.blog/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/source-themes/</loc>
+    <loc>https://volkov.blog/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/publication/conference-paper/</loc>
+    <loc>https://volkov.blog/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/</loc>
+    <loc>https://volkov.blog/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ru/publication/conference-paper/</loc>
+    <loc>https://volkov.blog/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

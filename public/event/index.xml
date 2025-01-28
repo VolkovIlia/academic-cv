@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Выступления | Volkov CV</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://volkov.blog/event/</link>
+      <atom:link href="https://volkov.blog/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Выступления</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
+      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
       <title>Выступления</title>
-      <link>http://localhost:1313/event/</link>
+      <link>https://volkov.blog/event/</link>
     </image>
     
     <item>
       <title>Наночастицы Pt/h-BN(O) для гидрирования СО2</title>
-      <link>http://localhost:1313/event/roscatalysis-2021/</link>
+      <link>https://volkov.blog/event/roscatalysis-2021/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/roscatalysis-2021/</guid>
+      <guid>https://volkov.blog/event/roscatalysis-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>НАНОСТРУКТУРЫ (Cu,Zn)/h-BN ДЛЯ ГЕТЕРОГЕННОГО КАТАЛИЗА</title>
-      <link>http://localhost:1313/event/fti-2021/</link>
+      <link>https://volkov.blog/event/fti-2021/</link>
       <pubDate>Mon, 17 May 2021 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/fti-2021/</guid>
+      <guid>https://volkov.blog/event/fti-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Синтез и изучение структуры гибридных наночастиц на основе гексагонального нитрида бора и платины</title>
-      <link>http://localhost:1313/event/lomonosov-2021/</link>
+      <link>https://volkov.blog/event/lomonosov-2021/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/lomonosov-2021/</guid>
+      <guid>https://volkov.blog/event/lomonosov-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SYNTHESIS AND CHARACTERIZATION OF BN/Pt AND BN/Au NANOHYBRIDS AS PERSPECTIVE CATALYSTS</title>
-      <link>http://localhost:1313/event/shs-2019/</link>
+      <link>https://volkov.blog/event/shs-2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/shs-2019/</guid>
+      <guid>https://volkov.blog/event/shs-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Синтез и изучение структуры гибридных наночастиц на основе гексагонального нитрида бора и платины</title>
-      <link>http://localhost:1313/event/lomonosov-2019/</link>
+      <link>https://volkov.blog/event/lomonosov-2019/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/lomonosov-2019/</guid>
+      <guid>https://volkov.blog/event/lomonosov-2019/</guid>
       <description></description>
     </item>
     

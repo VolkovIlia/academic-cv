@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Methylene Blue | Volkov CV</title>
-    <link>http://localhost:1313/tags/methylene-blue/</link>
-      <atom:link href="http://localhost:1313/tags/methylene-blue/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://volkov.blog/tags/methylene-blue/</link>
+      <atom:link href="https://volkov.blog/tags/methylene-blue/index.xml" rel="self" type="application/rss+xml" />
     <description>Methylene Blue</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
+      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
       <title>Methylene Blue</title>
-      <link>http://localhost:1313/tags/methylene-blue/</link>
+      <link>https://volkov.blog/tags/methylene-blue/</link>
     </image>
     
     <item>
       <title>A New Insight into the Mechanisms Underlying the Discoloration, Sorption, and Photodegradation of Methylene Blue Solutions with and without BNOx Nanocatalysts</title>
-      <link>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</link>
+      <link>https://volkov.blog/publication/matveev-new-insight-mechanisms-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</guid>
+      <guid>https://volkov.blog/publication/matveev-new-insight-mechanisms-2022/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A New Insight into the Mechanisms Underlying the Discoloration, Sorption, and Photodegradation of Methylene Blue Solutions with and without BNOx Nanocatalysts</title>
-      <link>http://localhost:1313/ru/publication/matveev-new-insight-mechanisms-2022/</link>
+      <link>https://volkov.blog/ru/publication/matveev-new-insight-mechanisms-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/matveev-new-insight-mechanisms-2022/</guid>
+      <guid>https://volkov.blog/ru/publication/matveev-new-insight-mechanisms-2022/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H-BN | Volkov CV</title>
-    <link>http://localhost:1313/tags/h-bn/</link>
-      <atom:link href="http://localhost:1313/tags/h-bn/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://volkov.blog/tags/h-bn/</link>
+      <atom:link href="https://volkov.blog/tags/h-bn/index.xml" rel="self" type="application/rss+xml" />
     <description>H-BN</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
+      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
       <title>H-BN</title>
-      <link>http://localhost:1313/tags/h-bn/</link>
+      <link>https://volkov.blog/tags/h-bn/</link>
     </image>
     
     <item>
       <title>Разработка гетерогенных наноструктурных материалов Fe(Pt, Ag)/BN для переработки углекислого газа</title>
-      <link>http://localhost:1313/project/rsf-20-79-10286/</link>
+      <link>https://volkov.blog/project/rsf-20-79-10286/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/rsf-20-79-10286/</guid>
+      <guid>https://volkov.blog/project/rsf-20-79-10286/</guid>
       <description>&lt;p&gt;Проект направлен на решение важной научной проблемы переработки углекислого газа за счет разработки гетерогенных нанокатализаторов с высокой каталитической активностью, селективностью и стабильностью. Основной задачей проекта является разработка, получение и всестороннее изучение наноструктур Fe(Pt,Ag)/BN для применения в процессах гидрирования углекислого газа.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Разработка гетерогенных наноструктурных материалов Fe(Pt, Ag)/BN для переработки углекислого газа</title>
-      <link>http://localhost:1313/ru/project/rsf-20-79-10286/</link>
+      <link>https://volkov.blog/ru/project/rsf-20-79-10286/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/rsf-20-79-10286/</guid>
+      <guid>https://volkov.blog/ru/project/rsf-20-79-10286/</guid>
       <description>&lt;p&gt;Проект направлен на решение важной научной проблемы переработки углекислого газа за счет разработки гетерогенных нанокатализаторов с высокой каталитической активностью, селективностью и стабильностью. Основной задачей проекта является разработка, получение и всестороннее изучение наноструктур Fe(Pt,Ag)/BN для применения в процессах гидрирования углекислого газа.&lt;/p&gt;</description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Volkov CV</title>
-    <link>http://localhost:1313/en/authors/</link>
-      <atom:link href="http://localhost:1313/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://volkov.blog/en/authors/</link>
+      <atom:link href="https://volkov.blog/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
+      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
       <title>Authors</title>
-      <link>http://localhost:1313/en/authors/</link>
+      <link>https://volkov.blog/en/authors/</link>
     </image>
     
   </channel>
