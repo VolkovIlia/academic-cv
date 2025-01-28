@@ -124,7 +124,7 @@ sections:
       text: |-
         Руководитель технологических проектов.
       button:
-        text: Пиши
+        text: Пишите
         url: 'mailto:ilia.volkov@outlook.com'
     design:
       card:
