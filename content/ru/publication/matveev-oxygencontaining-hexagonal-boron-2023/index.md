@@ -1,6 +1,6 @@
 ---
-title: Oxygen-Containing Hexagonal Boron Nitride with an Extremely Small Amount of
-  Pt in CO Oxidation
+title: Oxygen-containing hexagonal boron nitride with an extremely small amount of
+  Pt in CO oxidation
 
 # Authors
 # A YAML list of author names
@@ -25,7 +25,7 @@ author_notes: []
 date: '2023-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.177111Z'
+publishDate: '2025-01-28T18:05:02.227580Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -39,18 +39,18 @@ publication_short: ''
 doi: 10.1016/j.matlet.2023.133995
 
 abstract: New simple and scalable method for the synthesis of nanocrystalline Pt-containing
-  hexagonal boron oxynitride (Pt/BN(O)) is proposed. At a minimum content of 0.0085~wt%,
+  hexagonal boron oxynitride (Pt/BN(O)) is proposed. At a minimum content of 0.0085 wt%,
   Pt is present only in the form of single atoms (SAs) and clusters. This sample demonstrates
   CO oxidation activity with specific CO2 productivity as high as 176 molCO2/gPt/h
-  at 300~$^∘$C. The sample retains high catalytic activity after four cycles.
+  at 300 °C. The sample retains high catalytic activity after four cycles.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
+- Platinum
 - CO oxidation reaction
 - Hexagonal boron oxynitride
-- Platinum
 - Single atom catalyst
 
 # Display this page in a list of Featured pages?
@@ -84,6 +84,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167577X23001805
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

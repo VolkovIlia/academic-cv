@@ -1,6 +1,6 @@
 ---
-title: (Ni,Cu)/Hexagonal BN Nanohybrids -- New Efficient Catalysts for Methanol Steam
-  Reforming and Carbon Monoxide Oxidation
+title: (Ni,Cu)/hexagonal BN nanohybrids – New efficient catalysts for methanol steam
+  reforming and carbon monoxide oxidation
 
 # Authors
 # A YAML list of author names
@@ -29,7 +29,7 @@ author_notes: []
 date: '2020-09-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.140199Z'
+publishDate: '2025-01-28T18:05:02.188391Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -45,14 +45,14 @@ doi: 10.1016/j.cej.2020.125109
 abstract: This work is aimed at the development of bimetallic (Ni0.2Cu0.8) catalysts
   with hexagonal boron nitride (h-BN) nanosheet (BNNS) supports and elucidating their
   catalytic activity in the methanol steam reforming and CO oxidation reactions. The
-  hybrid Ni0.2Cu0.8/BN catalysts consist of curved h-BN nanosheets, up to 10--20~nm
-  in lateral size, decorated with metallic nanoparticles, 3.0--8.2~nm in dimensions.
-  The methanol conversion starts at ~20~$^∘$C and is nearly completed at 320~$^∘$C.
-  The (Ni0.2Cu0.8)/BN nanohybrids exhibit high catalytic stability and high selectivity
+  hybrid Ni0.2Cu0.8/BN catalysts consist of curved h-BN nanosheets, up to 10–20 nm
+  in lateral size, decorated with metallic nanoparticles, 3.0–8.2 nm in dimensions.
+  The methanol conversion starts at ~20 °C and is nearly completed at 320 °C. The
+  (Ni0.2Cu0.8)/BN nanohybrids exhibit high catalytic stability and high selectivity
   for CO2 over the whole temperature range. No carbon monoxide is detected during
   full methanol conversion. The possible mechanism of CO utilization during methanol
   reforming is proposed using ab initio calculations. The onset temperature of catalytic
-  CO oxidation is 100~$^∘$C and full conversion is completed at 200~$^∘$C. These results
+  CO oxidation is 100 °C and full conversion is completed at 200 °C. These results
   indicate high catalytic efficiency of (Ni0.2Cu0.8)/BN nanohybrids in methanol steam
   reforming and CO oxidation reactions.
 
@@ -60,10 +60,10 @@ abstract: This work is aimed at the development of bimetallic (Ni0.2Cu0.8) catal
 summary: ''
 
 tags:
-- (NiCu)/BN nanohybrids
-- Carbon monoxide oxidation
 - Catalytic activity
 - Hexagonal BN
+- (NiCu)/BN nanohybrids
+- Carbon monoxide oxidation
 - Methanol steam reforming
 - Microstructure
 
@@ -98,6 +98,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1385894720311013
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

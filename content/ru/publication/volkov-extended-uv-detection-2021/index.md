@@ -1,6 +1,6 @@
 ---
-title: 'Extended UV Detection Bandwidth: H-BN/Al Powder Nanocomposites Photodetectors
-  Sensitive in a Middle UV Region Due to Localized Surface Plasmon Resonance Effect'
+title: 'Extended UV detection bandwidth: h-BN/Al powder nanocomposites photodetectors
+  sensitive in a middle UV region due to localized surface plasmon resonance effect'
 
 # Authors
 # A YAML list of author names
@@ -25,7 +25,7 @@ author_notes: []
 date: '2021-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.185429Z'
+publishDate: '2025-01-28T18:05:02.198437Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -85,6 +85,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: https://dx.doi.org/10.1209/0295-5075/133/28002
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

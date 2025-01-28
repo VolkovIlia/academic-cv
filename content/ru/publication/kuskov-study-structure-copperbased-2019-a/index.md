@@ -1,6 +1,6 @@
 ---
-title: Study of Structure of Copper-Based Composite Materials during the Spark Plasma
-  Sintering
+title: Study of structure of copper-based composite materials during the spark plasma
+  sintering
 
 # Authors
 # A YAML list of author names
@@ -21,7 +21,7 @@ author_notes: []
 date: '2019-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.149219Z'
+publishDate: '2025-01-28T18:05:02.171265Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -35,11 +35,11 @@ publication_short: ''
 doi: 10.1088/1757-899X/558/1/012024
 
 abstract: This paper is devoted to the study of copper-based composite materials structure
-  formation processes in the conditions of SPS. The structures of Cu--Cr, Cu--Mo,
-  Cu--W, Cu--Cr--Mo, Cu--Cr--W, Cu--Mo--W, Cu--Cr--SiC, and Cu--Zr--CNTs two-component
-  and three-component systems were analyzed. The possibility of the formation of non-equilibrium
-  phases under SPS conditions is shown, the effect of chemical transformations on
-  the structure of bulk composite materials is considered.
+  formation processes in the conditions of SPS. The structures of Cu–Cr, Cu–Mo, Cu–W,
+  Cu–Cr–Mo, Cu–Cr–W, Cu–Mo–W, Cu–Cr–SiC, and Cu–Zr–CNTs two-component and three-component
+  systems were analyzed. The possibility of the formation of non-equilibrium phases
+  under SPS conditions is shown, the effect of chemical transformations on the structure
+  of bulk composite materials is considered.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -77,6 +77,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: https://iopscience.iop.org/article/10.1088/1757-899X/558/1/012024
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

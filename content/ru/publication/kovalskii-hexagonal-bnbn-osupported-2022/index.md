@@ -1,6 +1,6 @@
 ---
-title: Hexagonal BN- and BNO-supported Au and Pt Nanocatalysts in Carbon Monoxide
-  Oxidation and Carbon Dioxide Hydrogenation Reactions
+title: Hexagonal BN- and BNO-supported Au and Pt nanocatalysts in carbon monoxide
+  oxidation and carbon dioxide hydrogenation reactions
 
 # Authors
 # A YAML list of author names
@@ -29,7 +29,7 @@ author_notes: []
 date: '2022-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.131542Z'
+publishDate: '2025-01-28T18:05:02.207689Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -46,7 +46,7 @@ abstract: Environmental protection requires solving the problem of utilization a
   reduction of CO and CO2 emissions. Herein, Au/h-BN(O) and Pt/h-BN(O) nanohybrids
   are thoroughly analyzed in CO oxidation and CO2 hydrogenation reactions. The nanohybrids
   differ in catalytic particle size and particle distribution. The particles are smaller
-  (1--6~nm) and display a narrower size distribution in the case of Pt-based nanomaterials.
+  (1–6 nm) and display a narrower size distribution in the case of Pt-based nanomaterials.
   The Pt/h-BN(O) nanohybrids exhibit high catalytic activity in CO conversion and
   carbon dioxide hydrogenation reactions. For both systems, the oxidative state of
   BN support affects the catalytic activity. The possible catalytic reaction mechanisms
@@ -58,11 +58,11 @@ abstract: Environmental protection requires solving the problem of utilization a
 summary: ''
 
 tags:
-- Au/BN(O) and Pt/BN(O) nanohybrids
-- Carbon dioxide hydrogenation
-- Carbon monoxide oxidation
 - Catalytic activity
+- Carbon dioxide hydrogenation
 - Hexagonal BN
+- Carbon monoxide oxidation
+- Au/BN(O) and Pt/BN(O) nanohybrids
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -95,6 +95,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S092633732101016X
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

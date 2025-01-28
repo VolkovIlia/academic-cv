@@ -1,5 +1,5 @@
 ---
-title: Polyol Synthesis of Ag/BN Nanohybrids and Their Catalytic Stability in CO Oxidation
+title: Polyol Synthesis of Ag/BN Nanohybrids and their Catalytic Stability in CO Oxidation
   Reaction
 
 # Authors
@@ -26,7 +26,7 @@ author_notes: []
 date: '2020-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.123442Z'
+publishDate: '2025-01-28T18:05:02.179712Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -79,6 +79,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201902257
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

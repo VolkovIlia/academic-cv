@@ -8,7 +8,7 @@ title: Synthesis of Hexagonal Boron Nitride Coatings Using Concentrated Solution
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - I.N. Volkov
-- A.M. Koval'skii
+- A.M. Koval’skii
 - Z.S. Ermekova
 - D.V. Barilyuk
 - A.B. Karabanova
@@ -24,7 +24,7 @@ author_notes: []
 date: '2021-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-01-22T14:10:55.193865Z'
+publishDate: '2025-01-28T18:05:02.162476Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -38,20 +38,20 @@ publication_short: ''
 doi: 10.1134/S1063785021020152
 
 abstract: 'Abstract: Continuous nanocrystalline coatings of hexagonal boron nitride
-  (h-BN) with a thickness of ~1000-350 nm are prepared from highly concentrated aqueous
+  (h-BN) with a thickness of ~1000‒350 nm are prepared from highly concentrated aqueous
   solutions of lithium and sodium borates, which display good film-forming properties.
   The borate solutions were applied on silicon substrates by spin coating followed
-  by drying in air and treatment in ammonia at a temperature of 1300$^∘$C. This method
+  by drying in air and treatment in ammonia at a temperature of 1300°C. This method
   is deemed promising for creating protective coatings (e.g., for protecting carbon
-  products from oxidation at elevated temperatures). o̧pyright 2021, Pleiades Publishing,
+  products from oxidation at elevated temperatures). © 2021, Pleiades Publishing,
   Ltd.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- borate solutions
 - boron nitride
+- borate solutions
 - h-BN coatings
 - h-BN coatings.
 
@@ -86,6 +86,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102918627&doi=10.1134%2fS1063785021020152&partnerID=40&md5=7f7905efbe4391e87ce7343de8ce4d8a
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
