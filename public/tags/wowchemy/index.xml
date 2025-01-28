@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wowchemy | Volkov CV</title>
-    <link>https://volkov.blog/tags/wowchemy/</link>
-      <atom:link href="https://volkov.blog/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/wowchemy/</link>
+      <atom:link href="http://localhost:1313/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
+      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
       <title>Wowchemy</title>
-      <link>https://volkov.blog/tags/wowchemy/</link>
+      <link>http://localhost:1313/tags/wowchemy/</link>
     </image>
     
     <item>
       <title>Pandas</title>
-      <link>https://volkov.blog/en/project/pandas/</link>
+      <link>http://localhost:1313/en/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/en/project/pandas/</guid>
+      <guid>http://localhost:1313/en/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://volkov.blog/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://volkov.blog/ru/project/pandas/</link>
+      <link>http://localhost:1313/ru/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/ru/project/pandas/</guid>
+      <guid>http://localhost:1313/ru/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://volkov.blog/en/project/pytorch/</link>
+      <link>http://localhost:1313/en/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/en/project/pytorch/</guid>
+      <guid>http://localhost:1313/en/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://volkov.blog/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://volkov.blog/ru/project/pytorch/</link>
+      <link>http://localhost:1313/ru/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/ru/project/pytorch/</guid>
+      <guid>http://localhost:1313/ru/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://volkov.blog/en/project/scikit/</link>
+      <link>http://localhost:1313/en/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/en/project/scikit/</guid>
+      <guid>http://localhost:1313/en/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://volkov.blog/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://volkov.blog/ru/project/scikit/</link>
+      <link>http://localhost:1313/ru/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/ru/project/scikit/</guid>
+      <guid>http://localhost:1313/ru/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     

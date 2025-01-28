@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Volkov CV</title>
-    <link>https://volkov.blog/project/</link>
-      <atom:link href="https://volkov.blog/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
+      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
       <title>Projects</title>
-      <link>https://volkov.blog/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Pandas</title>
-      <link>https://volkov.blog/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://volkov.blog/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://volkov.blog/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Разработка гетерогенных наноструктурных материалов Fe(Pt, Ag)/BN для переработки углекислого газа</title>
-      <link>https://volkov.blog/project/rsf-20-79-10286/</link>
+      <link>http://localhost:1313/project/rsf-20-79-10286/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/project/rsf-20-79-10286/</guid>
+      <guid>http://localhost:1313/project/rsf-20-79-10286/</guid>
       <description>&lt;p&gt;Проект направлен на решение важной научной проблемы переработки углекислого газа за счет разработки гетерогенных нанокатализаторов с высокой каталитической активностью, селективностью и стабильностью. Основной задачей проекта является разработка, получение и всестороннее изучение наноструктур Fe(Pt,Ag)/BN для применения в процессах гидрирования углекислого газа.&lt;/p&gt;</description>
     </item>
     

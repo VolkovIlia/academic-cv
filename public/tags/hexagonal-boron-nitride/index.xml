@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hexagonal Boron Nitride | Volkov CV</title>
-    <link>https://volkov.blog/tags/hexagonal-boron-nitride/</link>
-      <atom:link href="https://volkov.blog/tags/hexagonal-boron-nitride/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/hexagonal-boron-nitride/</link>
+      <atom:link href="http://localhost:1313/tags/hexagonal-boron-nitride/index.xml" rel="self" type="application/rss+xml" />
     <description>Hexagonal Boron Nitride</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://volkov.blog/media/icon_hu_be62899ad91f6761.png</url>
+      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
       <title>Hexagonal Boron Nitride</title>
-      <link>https://volkov.blog/tags/hexagonal-boron-nitride/</link>
+      <link>http://localhost:1313/tags/hexagonal-boron-nitride/</link>
     </image>
     
     <item>
       <title>New Heterogeneous Nanostructured Catalysts Based on Transition Metal Nanoparticles and Hexagonal Boron Nitride</title>
-      <link>https://volkov.blog/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
+      <link>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
+      <guid>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Heterogeneous Nanostructured Catalysts Based on Transition Metal Nanoparticles and Hexagonal Boron Nitride</title>
-      <link>https://volkov.blog/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
+      <link>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://volkov.blog/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
+      <guid>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

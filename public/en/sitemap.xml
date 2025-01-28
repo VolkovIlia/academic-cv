@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://volkov.blog/en/authors/</loc>
+    <loc>http://localhost:1313/en/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://volkov.blog/en/publication_types/</loc>
+    <loc>http://localhost:1313/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="https://volkov.blog/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://volkov.blog/en/publication_types/"
+                href="http://localhost:1313/en/publication_types/"
                 />
   </url><url>
-    <loc>https://volkov.blog/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="https://volkov.blog/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://volkov.blog/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>https://volkov.blog/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="https://volkov.blog/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://volkov.blog/en/"
+                href="http://localhost:1313/en/"
                 />
   </url>
 </urlset>
