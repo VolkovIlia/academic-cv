@@ -43,17 +43,17 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/ru/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/ru/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/ru/projects/</link>
+      <title>Проекты</title>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
@@ -1696,14 +1696,6 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
       <link>http://localhost:1313/ru/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/experience/</guid>
@@ -2446,6 +2438,14 @@ data.head()
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Опыт работы</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
     </item>
     
     <item>
