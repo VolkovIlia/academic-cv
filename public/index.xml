@@ -738,7 +738,7 @@
 
 
 
-&lt;div id=&#34;chart-956713284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-592318476&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -756,7 +756,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-956713284&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-592318476&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -948,7 +948,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-649531728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419287536&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -966,7 +966,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-649531728&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-419287536&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1158,7 +1158,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-649531728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419287536&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -1176,7 +1176,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-649531728&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-419287536&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2933,7 +2933,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/ru/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+      <description>&lt;p&gt;������������������������������������������������������������������������������������������������������&lt;/p&gt;
 </description>
     </item>
     
@@ -3101,7 +3101,8 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/ru/publication/volkov-synthesischaracterizationbn-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/publication/volkov-synthesischaracterizationbn-2019/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+      <description>&lt;p&gt;dd the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.
+��&lt;/p&gt;
 </description>
     </item>
     
@@ -3119,7 +3120,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/ru/publication/volkov-sintez-izuchenie-struktury-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/publication/volkov-sintez-izuchenie-struktury-2019/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+      <description>&lt;p&gt;������������������������������������������������������������������������������������������������������&lt;/p&gt;
 </description>
     </item>
     

@@ -1,6 +1,5 @@
 ---
-title: Синтез и изучение структуры гибридных наночастиц на основе гексагонального
-  нитрида бора и платины
+title: Синтез и изучение структуры гибридных наночастиц на основе гексагонального нитрида бора и платины
 
 # Authors
 # A YAML list of author names
@@ -25,7 +24,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Секция «Фундаментальное материаловедение и наноматериалы»*'
+publication: ''
 publication_short: ''
 
 doi: ''
