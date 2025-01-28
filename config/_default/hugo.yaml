@@ -19,11 +19,11 @@ languages:
    languageCode: "ru-RU"
    weight: 1
    contentDir: 'content/ru'
-  en:
-   title: "..."
-   languageCode:  "en-EN"
-   weight: 2
-   contentDir: 'content/en'
+  # en:
+  #  title: "..."
+  #  languageCode:  "en-EN"
+  #  weight: 2
+  #  contentDir: 'content/en'
 defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false

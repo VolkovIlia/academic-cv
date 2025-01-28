@@ -2,96 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/event/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/projects/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/projects/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/projects/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/post/get-started/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/post/get-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/post/get-started/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/get-started/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/academic/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/post/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/hugo-blox/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/hugo-blox/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/markdown/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-EN"
+                hreflang="en"
                 href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
@@ -103,268 +75,166 @@
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/hugo/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/project/pandas/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/project/pandas/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/project/pandas/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/project/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/project/pytorch/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/project/pytorch/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/project/pytorch/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/project/scikit/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/project/scikit/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/project/scikit/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/second-brain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/second-brain/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/wowchemy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/wowchemy/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/second-brain/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/post/second-brain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/post/second-brain/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/second-brain/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/post/data-visualization/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/post/data-visualization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/post/data-visualization/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/data-visualization/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/post/teach-courses/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/post/teach-courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/post/teach-courses/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/teach-courses/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/experience/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/experience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/experience/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/experience/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/hugo-blox-builder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/hugo-blox-builder/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/javascript/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/javascript/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/teaching/js/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/teaching/js/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/teaching/js/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/teaching/js/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/teaching/python/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/teaching/python/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/teaching/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/teaching/python/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/python/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/teaching/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/teaching/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/teaching/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/project-management/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/post/project-management/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/post/project-management/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/project-management/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication_types/article-journal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication_types/article-journal/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/co-oxidation-reaction/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
@@ -378,6 +248,10 @@
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/matveev-oxygencontaining-hexagonal-boron-2023/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/platinum/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -387,7 +261,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-EN"
+                hreflang="en"
                 href="http://localhost:1313/en/publication_types/"
                 />
     <xhtml:link
@@ -403,23 +277,25 @@
     <loc>http://localhost:1313/publication/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-EN"
+                hreflang="en"
                 href="http://localhost:1313/en/"
                 />
     <xhtml:link
@@ -452,7 +328,15 @@
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/kovalskii-hexagonal-bnbn-osupported-2022/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/matveev-new-insight-mechanisms-2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -483,22 +367,24 @@
     <loc>http://localhost:1313/event/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/event/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/event/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/roscatalysis-2021/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/event/roscatalysis-2021/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -526,11 +412,23 @@
     <lastmod>2021-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/event/fti-2021/</loc>
+    <lastmod>2021-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/event/lomonosov-2021/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/event/lomonosov-2021/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/volkov-extended-uv-detection-2021/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/volkov-extended-uv-detection-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -662,6 +560,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/molecular-dynamic-simulations/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -686,6 +588,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/reaction-intermediates/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -702,6 +608,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/volkov-synthesis-hexagonal-boron-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/thermal-treatment/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -714,7 +624,15 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/project/rsf-20-79-10286/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -734,7 +652,15 @@
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/konopatsky-polyol-synthesis-ag-2020/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/event/shs-2019/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/event/shs-2019/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -742,106 +668,72 @@
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ru/publication/kuskov-study-structure-copperbased-2019-a/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/event/lomonosov-2019/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ru/event/lomonosov-2019/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication/preprint/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication_types/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication_types/article/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/large-language-models/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/large-language-models/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication/journal-article/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/tags/source-themes/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/en/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication/conference-paper/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/ru/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/en/publication_types/paper-conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/publication_types/paper-conference/"
-                />
   </url>
 </urlset>
