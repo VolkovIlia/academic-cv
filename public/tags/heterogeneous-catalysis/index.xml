@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heterogeneous Catalysis | Volkov CV</title>
-    <link>http://localhost:1313/tags/heterogeneous-catalysis/</link>
-      <atom:link href="http://localhost:1313/tags/heterogeneous-catalysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:40149/tags/heterogeneous-catalysis/</link>
+      <atom:link href="http://localhost:40149/tags/heterogeneous-catalysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Heterogeneous Catalysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
+      <url>http://localhost:40149/media/icon_hu_be62899ad91f6761.png</url>
       <title>Heterogeneous Catalysis</title>
-      <link>http://localhost:1313/tags/heterogeneous-catalysis/</link>
+      <link>http://localhost:40149/tags/heterogeneous-catalysis/</link>
     </image>
     
     <item>
       <title>New Heterogeneous Nanostructured Catalysts Based on Transition Metal Nanoparticles and Hexagonal Boron Nitride</title>
-      <link>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
+      <link>http://localhost:40149/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
+      <guid>http://localhost:40149/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Heterogeneous Nanostructured Catalysts Based on Transition Metal Nanoparticles and Hexagonal Boron Nitride</title>
-      <link>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
+      <link>http://localhost:40149/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
+      <guid>http://localhost:40149/ru/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
