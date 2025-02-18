@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(NiCu)/BN Nanohybrids | Volkov CV</title>
-    <link>http://localhost:40149/tags/nicu/bn-nanohybrids/</link>
-      <atom:link href="http://localhost:40149/tags/nicu/bn-nanohybrids/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/nicu/bn-nanohybrids/</link>
+      <atom:link href="http://localhost:1313/tags/nicu/bn-nanohybrids/index.xml" rel="self" type="application/rss+xml" />
     <description>(NiCu)/BN Nanohybrids</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40149/media/icon_hu_be62899ad91f6761.png</url>
+      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
       <title>(NiCu)/BN Nanohybrids</title>
-      <link>http://localhost:40149/tags/nicu/bn-nanohybrids/</link>
+      <link>http://localhost:1313/tags/nicu/bn-nanohybrids/</link>
     </image>
     
     <item>
       <title>(Ni,Cu)/hexagonal BN nanohybrids – New efficient catalysts for methanol steam reforming and carbon monoxide oxidation</title>
-      <link>http://localhost:40149/publication/kovalskii-ni-cu-hexagonal-bn-2020/</link>
+      <link>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40149/publication/kovalskii-ni-cu-hexagonal-bn-2020/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(Ni,Cu)/hexagonal BN nanohybrids – New efficient catalysts for methanol steam reforming and carbon monoxide oxidation</title>
-      <link>http://localhost:40149/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40149/ru/publication/kovalskii-ni-cu-hexagonal-bn-2020/</guid>
+      <guid>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

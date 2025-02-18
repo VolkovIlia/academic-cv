@@ -1,17 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: "Ilia Volkov"
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# Name, SEO
+first_name: "Ilia"
+last_name: "Volkov"
 
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# Short tagline or motto
+role: "Innovations in Materials Science & Green Energy"
 
-# Status emoji
-status:
-  icon: ☕️
+# Brief summary for SEO
+summary: "R&D leader with 7+ years of experience in heterogeneous catalysis, materials science, and project management—driving eco-friendly solutions and hydrogen technologies."
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,168 +18,161 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Icons and links for the header or sidebar
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: "mailto:ilia.volkov@outlook.com"
+    label: "Email"
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: "https://www.instagram.com/ilia__volkov"
+    label: "Instagram"
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: "https://github.com/VolkovIlia"
+    label: "GitHub"
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: "https://www.linkedin.com/in/volkovilia"
+    label: "LinkedIn"
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: "https://scholar.google.com/citations?hl=ru&user=xfbbm54AAAAJ"
+    label: "Google Scholar"
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: "https://orcid.org/0000-0001-8555-4712"
+    label: "ORCID"
 
+# Interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Nanomaterials & Catalysis
+- Hydrogen Energy & Fuel Cells
+- Metallurgy & Powder Metallurgy
+- Green Technologies & ESG
+- Project Management (Agile, PMBOK)
+- Quality Management
+- Materials Science & Analytics
+- Linux & Open Source
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: "PhD in Engineering Sciences. Powder Metallurgy and Composite Materials"
+    institution: "NUST MISiS"
+    date_start: "2018-09-01"
+    date_end: "2023-01-07"
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation: "Development of advanced catalysts based on heterogeneous boron nitride nanostructures."  
+      Key results were presented at five conferences and published in three peer-reviewed journals.  
+      Advisor: [Prof. Shtansky D.V.](https://misis.ru/science/community/scientists/3493/)  
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      text: "Dissertation text"
+      url: "https://misis.ru/science/dissertations/2022/3635/"
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: "Master's Degree. Metallurgy — Powder Metallurgy & Functional Coatings"
+    institution: "NUST MISiS"
+    date_start: "2016-09-01"
+    date_end: "2018-08-31"
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Focus: Development of high-entropy alloys using high-energy mechanical processing; advanced coating technologies
+
+  - area: "Bachelor's Degree. Quality Management"
+    institution: "NUST MISiS"
+    date_start: "2012-09-01"
+    date_end: "2014-08-31"
+    summary: |
+      Specialized in statistical methods of quality control and lean production
+
+# Work Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: "Chief Research Engineer"
+    company_name: "Sirius University"
+    company_url: "https://siriusuniversity.ru/"
+    date_start: "2024-08-15"
+    date_end: "2024-11-17"
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Oversaw the development of a structural research resource center. 
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      **Key Achievements & Responsibilities:**
+      - Created an educational module in Moodle to streamline internal learning
+      - Drafted subdivision regulations leveraging ALCOA+ and GLP (GOST 33044-2014)
+      - Spearheaded concept & strategy for LIMS (Laboratory Information Management System) integration; collaborated with IT teams for testing and evaluation
+      - Negotiated with external customers, including state research institutes
+      - Automated service cost calculation (in line with Ministry of Industry & Trade Order №639) 
+      - Produced presentation decks for leadership and standard operating procedures (SOP) for metrological compliance
+      - Established a chemical reagents registry and a bibliographic data automation system
 
+  - position: "Project Manager"
+    company_name: "JSC Giredmet (Rosatom State Corporation)"
+    company_url: "http://giredmet.ru/ru/"
+    date_start: "2022-11-01"
+    date_end: "2024-06-30"
+    summary: |
+      Topic: Development of solid oxide fuel cells. The project included direct hydrogen-to-electricity concepts, as highlighted in media coverage.
+
+      **Key Achievements & Responsibilities:**
+      - Prepared analytical R&D stage reports and performed patent research
+      - Built the project team (recruitment, onboarding, and performance control)
+      - Procured high-tech scientific equipment for producing & characterizing new materials
+      - Drove tasks per technical specifications; collaborated with research institutes
+      - Developed technical requirements in line with Rosatom & Minpromtorg guidelines
+      - Led project schedules, cost estimates, cross-functional tasks with finance, marketing, security, PR
+      - Helped publicize project breakthroughs, including direct H₂-to-electric power generation
+
+  - position: "Research Project Engineer"
+    company_name: "NUST MISiS"
+    date_start: "2017-02-01"
+    date_end: "2022-11-01"
+    summary: |
+      Conducted multiple research projects in advanced materials for catalytic applications:
+
+      **Key Achievements & Responsibilities:**
+      - Surveyed literature on next-gen materials (catalysts, coatings) 
+      - Summarized R&D data for grant reporting (RFBR, RSF)
+      - Presented at international forums and compiled results in top-tier journals
+      - Mentored graduate and undergraduate students; developed specialized courses 
+
+# Languages
 languages:
-  - name: English
+  - name: "Russian"
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: "English"
+    percent: 80
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Head of R&D** in the field of **materials science**, **heterogeneous catalysis**, and **nanotechnology**, with 7+ years of hands-on experience. Passionate about bridging **academic insight** with **industrial innovation** to deliver eco-friendly solutions for **green energy**, **hydrogen technologies**, and advanced **metal/alloy** systems. Skilled at building cross-functional teams, driving complex research projects, and managing quality & compliance under globally recognized standards (e.g., GLP, GOST).
+
+---
+
+## Research Focus
+
+My research centers on designing **bimetallic nanocatalysts** (FePt, NiCu, etc.) on **hexagonal boron nitride** (h-BN) and other substrates to lower process temperature and boost selectivity in CO oxidation, CO₂ hydrogenation, and direct hydrogen-to-electricity pathways.
+
+### Key Directions
+
+1. **Green Technologies & Hydrogen Energy**  
+   - Developing advanced catalysts for **solid oxide fuel cells** and direct H₂-based power generation, as featured in [media coverage](https://strana-rosatom.ru/...)  
+   - Optimizing methanol reformation and low-carbon approaches
+
+2. **Environmental Catalysis & Reduction of CO₂ Emissions**  
+   - Utilizing new materials (BNOx, MoSxOy) for **photodegradation** of organic pollutants  
+   - Exploring synergy of **h-BN** with precious metals to cut energy costs by 30–40%
+
+3. **Nanomaterials & Powder Metallurgy**  
+   - Employing wet chemistry, polyol processes, and **Spark Plasma Sintering (SPS)** for composites (Cu, Ni, Mo, W)  
+   - Enhancing phase interfaces to stabilize nanoparticles and extend catalyst lifespans
+
+4. **Industrial Scale-Up & ESG**  
+   - Aligning with Rosatom’s strategy for next-gen renewable projects  
+   - Driving commercialization and compliance, from lab prototypes to pilot production
+
+---
+
+## Why It Matters
+
+- **For HR & Talent**: Skilled leader with proven track record, bridging technical R&D and team development. Adept at **Agile** & **project management** frameworks, ensuring clarity, innovation, and timeline success.
+
+- **For Business**: My solutions reduce energy consumption, cut carbon footprints, and ensure ESG alignment—boosting competitive advantages in **automotive, oil & gas, chemical**, and **energy** sectors.
+
+- **For Academia & Research Partners**: My collaborative approach yields high-impact scientific outcomes (publications, patents), fosters interdisciplinary synergy, and advances the frontiers of **clean energy** and **green chemistry**.
+
+I'm open to **collaborations**—be it **industrial projects**, **joint grants**, or **academic partnerships**—aiming to create scalable, cost-effective, and eco-friendly technologies for the global market.
+

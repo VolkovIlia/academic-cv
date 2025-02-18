@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CO Oxidation Reaction | Volkov CV</title>
-    <link>http://localhost:40149/tags/co-oxidation-reaction/</link>
-      <atom:link href="http://localhost:40149/tags/co-oxidation-reaction/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/co-oxidation-reaction/</link>
+      <atom:link href="http://localhost:1313/tags/co-oxidation-reaction/index.xml" rel="self" type="application/rss+xml" />
     <description>CO Oxidation Reaction</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40149/media/icon_hu_be62899ad91f6761.png</url>
+      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
       <title>CO Oxidation Reaction</title>
-      <link>http://localhost:40149/tags/co-oxidation-reaction/</link>
+      <link>http://localhost:1313/tags/co-oxidation-reaction/</link>
     </image>
     
     <item>
       <title>Oxygen-containing hexagonal boron nitride with an extremely small amount of Pt in CO oxidation</title>
-      <link>http://localhost:40149/publication/matveev-oxygencontaining-hexagonal-boron-2023/</link>
+      <link>http://localhost:1313/publication/matveev-oxygencontaining-hexagonal-boron-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40149/publication/matveev-oxygencontaining-hexagonal-boron-2023/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oxygen-containing hexagonal boron nitride with an extremely small amount of Pt in CO oxidation</title>
-      <link>http://localhost:40149/ru/publication/matveev-oxygencontaining-hexagonal-boron-2023/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40149/ru/publication/matveev-oxygencontaining-hexagonal-boron-2023/</guid>
+      <guid>http://localhost:1313/publication/matveev-oxygencontaining-hexagonal-boron-2023/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
