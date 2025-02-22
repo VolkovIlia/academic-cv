@@ -149,7 +149,7 @@ My research centers on designing **bimetallic nanocatalysts** (FePt, NiCu, etc.)
 ### Key Directions
 
 1. **Green Technologies & Hydrogen Energy**  
-   - Developing advanced catalysts for **solid oxide fuel cells** and direct H₂-based power generation, as featured in [media coverage](https://strana-rosatom.ru/...)  
+   - Developing advanced catalysts for **solid oxide fuel cells** and direct H₂-based power generation, as featured in [media coverage](https://strana-rosatom.ru/2023/11/16/giredmet-razrabotaet-tehnologiju-p/)  
    - Optimizing methanol reformation and low-carbon approaches
 
 2. **Environmental Catalysis & Reduction of CO₂ Emissions**  
