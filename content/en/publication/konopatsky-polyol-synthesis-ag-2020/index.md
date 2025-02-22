@@ -83,5 +83,3 @@ links:
 - name: URL
   url: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201902257
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

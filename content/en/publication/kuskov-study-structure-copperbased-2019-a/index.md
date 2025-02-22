@@ -81,5 +81,3 @@ links:
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/1757-899X/558/1/012024
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

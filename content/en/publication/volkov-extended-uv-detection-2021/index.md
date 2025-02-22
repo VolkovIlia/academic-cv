@@ -89,5 +89,3 @@ links:
 - name: URL
   url: https://dx.doi.org/10.1209/0295-5075/133/28002
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -88,5 +88,3 @@ links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0167577X23001805
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

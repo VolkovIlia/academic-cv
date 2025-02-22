@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sintering | Hugo Academic CV Theme</title>
+    <title>Sintering | Volkov CV</title>
     <link>http://localhost:1313/ru/tags/sintering/</link>
       <atom:link href="http://localhost:1313/ru/tags/sintering/index.xml" rel="self" type="application/rss+xml" />
     <description>Sintering</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
       <title>Sintering</title>
       <link>http://localhost:1313/ru/tags/sintering/</link>
     </image>
     
     <item>
-      <title>Microstructure and Catalytic Properties of Fe3O4/BN, Fe3O4(Pt)/BN, and FePt/BN Heterogeneous Nanomaterials in CO2 Hydrogenation Reaction: Experimental and Theoretical Insights</title>
+      <title>Microstructure and catalytic properties of Fe3O4/BN, Fe3O4(Pt)/BN, and FePt/BN heterogeneous nanomaterials in CO2 hydrogenation reaction: Experimental and theoretical insights</title>
       <link>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>

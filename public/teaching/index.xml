@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Курсы | Volkov CV</title>
+    <title>Teaching | Volkov CV</title>
     <link>http://localhost:1313/teaching/</link>
       <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Курсы</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-EN</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
-      <title>Курсы</title>
+      <title>Teaching</title>
       <link>http://localhost:1313/teaching/</link>
     </image>
     

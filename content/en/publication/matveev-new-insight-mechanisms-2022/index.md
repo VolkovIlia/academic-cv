@@ -115,5 +115,3 @@ links:
 - name: URL
   url: https://www.mdpi.com/1996-1944/15/22/8169
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Публикации | Volkov CV</title>
+    <title>Publications | Volkov CV</title>
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-RU</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-EN</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_be62899ad91f6761.png</url>
-      <title>Публикации</title>
+      <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
     
@@ -17,8 +17,7 @@
       <link>http://localhost:1313/publication/matveev-oxygencontaining-hexagonal-boron-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/matveev-oxygencontaining-hexagonal-boron-2023/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +25,7 @@
       <link>http://localhost:1313/publication/kovalskii-hexagonal-bnbn-osupported-2022/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/kovalskii-hexagonal-bnbn-osupported-2022/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,8 +33,7 @@
       <link>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/matveev-new-insight-mechanisms-2022/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,8 +41,7 @@
       <link>http://localhost:1313/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/matveev-amorphous-mo-sx-oy-hb-nx-oy-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -53,8 +49,7 @@
       <link>http://localhost:1313/publication/volkov-extended-uv-detection-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-extended-uv-detection-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -62,8 +57,7 @@
       <link>http://localhost:1313/publication/konopatsky-microstructure-catalytic-properties-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/konopatsky-microstructure-catalytic-properties-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -71,8 +65,7 @@
       <link>http://localhost:1313/publication/volkov-nanostructures-cu-zn-hbn-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-nanostructures-cu-zn-hbn-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -80,8 +73,7 @@
       <link>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/konopatskii-new-heterogeneous-nanostructured-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -89,8 +81,7 @@
       <link>http://localhost:1313/publication/kovalskii-pthbnnanostructures-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/kovalskii-pthbnnanostructures-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -98,8 +89,7 @@
       <link>http://localhost:1313/publication/volkov-synthesis-hexagonal-boron-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-synthesis-hexagonal-boron-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -107,8 +97,7 @@
       <link>http://localhost:1313/publication/volkov-nanochasticy-pt-hbno-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-nanochasticy-pt-hbno-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -116,8 +105,7 @@
       <link>http://localhost:1313/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-poluchenie-geterogennyh-nanostruktur-2021/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -125,8 +113,7 @@
       <link>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/kovalskii-ni-cu-hexagonal-bn-2020/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -134,8 +121,7 @@
       <link>http://localhost:1313/publication/konopatsky-polyol-synthesis-ag-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/konopatsky-polyol-synthesis-ag-2020/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -143,8 +129,7 @@
       <link>http://localhost:1313/publication/kuskov-study-structure-copperbased-2019-a/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/kuskov-study-structure-copperbased-2019-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -152,8 +137,7 @@
       <link>http://localhost:1313/publication/volkov-synthesischaracterizationbn-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-synthesischaracterizationbn-2019/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -161,8 +145,7 @@
       <link>http://localhost:1313/publication/volkov-sintez-izuchenie-struktury-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/volkov-sintez-izuchenie-struktury-2019/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

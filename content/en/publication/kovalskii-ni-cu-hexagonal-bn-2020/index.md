@@ -102,5 +102,3 @@ links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1385894720311013
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

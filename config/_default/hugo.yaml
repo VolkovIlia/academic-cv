@@ -20,7 +20,7 @@ languages:
    languageCode:  "en-EN"
    weight: 2
    contentDir: 'content/en'
-defaultContentLanguage: ru
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
