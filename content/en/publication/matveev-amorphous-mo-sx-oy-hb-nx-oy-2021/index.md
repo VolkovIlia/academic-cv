@@ -106,5 +106,5 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://www.mdpi.com/2079-4991/11/12/3232
+  url: https://doi.org/10.3390/nano11123232
 ---

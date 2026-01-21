@@ -1,0 +1,22 @@
+{{- $item := .item -}}
+{{- if not (hasPrefix (printf "%T" $item) "*hugolib.page") -}}
+  {{- with $item.page -}}
+    {{- $item = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $item -}}{{- return -}}{{- end -}}
+
+<div class="citation">
+  <div class="citation-title">
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  </div>
+  <div class="citation-authors">
+    {{- partial "page_metadata_authors" $item -}}
+  </div>
+  {{- with $item.Params.publication -}}
+    <div class="citation-publication">{{ . }}</div>
+  {{- end -}}
+  {{- with $item.Params.doi -}}
+    <div class="citation-doi"><a href="https://doi.org/{{ . }}">doi: {{ . }}</a></div>
+  {{- end -}}
+</div>

@@ -39,7 +39,7 @@ sections:
         - statistic: "170+"
           description: |
             Цитирования
-        - statistic: "5"
+        - statistic: "7"
           description: |
             Индекс Хирша
     design:

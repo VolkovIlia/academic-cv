@@ -1,0 +1,22 @@
+{{- $item := .item -}}
+{{- if not (hasPrefix (printf "%T" $item) "*hugolib.page") -}}
+  {{- with $item.page -}}
+    {{- $item = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $item -}}{{- return -}}{{- end -}}
+
+<article class="card">
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+    </h3>
+    {{- with $item.Params.summary -}}
+      <p class="card-text">{{ . }}</p>
+    {{- else -}}
+      {{- with $item.Summary -}}
+        <p class="card-text">{{ . }}</p>
+      {{- end -}}
+    {{- end -}}
+  </div>
+</article>

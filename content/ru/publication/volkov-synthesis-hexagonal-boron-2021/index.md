@@ -53,7 +53,6 @@ tags:
 - boron nitride
 - borate solutions
 - h-BN coatings
-- h-BN coatings.
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -88,8 +87,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102918627&doi=10.1134%2fS1063785021020152&partnerID=40&md5=7f7905efbe4391e87ce7343de8ce4d8a
+  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102918627&doi=10.1134%2fS1063785021020152&partnerID=40&md5=7f7905efbe4391e87ce7343de8ce4d8a
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

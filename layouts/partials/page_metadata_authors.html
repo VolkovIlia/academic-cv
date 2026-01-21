@@ -1,0 +1,16 @@
+{{- $page := . -}}
+{{- if not (hasPrefix (printf "%T" .) "*hugolib.page") -}}
+  {{- with .page -}}
+    {{- $page = . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $page -}}
+  {{- $authors := .Params.authors | default (slice) -}}
+  {{- if gt (len $authors) 0 -}}
+    <span class="article-metadata">
+      {{- range $index, $author := $authors -}}
+        {{- if $index }}, {{ end -}}{{ $author }}
+      {{- end -}}
+    </span>
+  {{- end -}}
+{{- end -}}

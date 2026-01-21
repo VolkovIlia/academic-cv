@@ -132,6 +132,5 @@ image:
 projects: []
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85113817784&doi=10.1016%2fj.jcat.2021.08.026&partnerID=40&md5=047cd454639b388487a679ae147a63de
+  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85113817784&doi=10.1016%2fj.jcat.2021.08.026&partnerID=40&md5=047cd454639b388487a679ae147a63de
 ---

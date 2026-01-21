@@ -69,6 +69,5 @@ image:
 projects: []
 links:
 - name: URL
-  url: 
-    https://lomonosov-msu.ru/archive/Lomonosov_2021/data/22375/uid102903_f3a3d0c37565abb36f67b606aea953b0f012953e.doc
+  url: https://lomonosov-msu.ru/archive/Lomonosov_2021/data/22375/uid102903_f3a3d0c37565abb36f67b606aea953b0f012953e.doc
 ---

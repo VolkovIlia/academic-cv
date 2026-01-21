@@ -2,7 +2,7 @@
 title: Наночастицы Pt/h-BN(O) для гидрирования СО2
 
 event: Роскатализ-2021
-event_url: http://conf.nsc.ru/ru/page/RusCat-2021;jsessionid=32DA55A2D73296EEC5FEBDC83F79558B
+event_url: http://conf.nsc.ru/ru/page/RusCat-2021
 location: Казанский научный центр РАН
 address:
   street: ул. Профессора Нужина, 2

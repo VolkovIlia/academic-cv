@@ -52,7 +52,6 @@ tags:
 - heterogeneous catalysis
 - nanomaterials
 - thermal treatment
-- thermal treatment.
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -87,6 +86,5 @@ image:
 projects: []
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121447541&doi=10.1134%2fS1063785021080186&partnerID=40&md5=0993ea13f4b976cddd7b07bc4aa5d9bd
+  url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121447541&doi=10.1134%2fS1063785021080186&partnerID=40&md5=0993ea13f4b976cddd7b07bc4aa5d9bd
 ---

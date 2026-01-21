@@ -113,5 +113,5 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://www.mdpi.com/1996-1944/15/22/8169
+  url: https://doi.org/10.3390/ma15228169
 ---

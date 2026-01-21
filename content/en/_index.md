@@ -37,7 +37,7 @@ sections:
         - statistic: "170+"
           description: |
             Citations
-        - statistic: "5"
+        - statistic: "7"
           description: |
             h-Index
     design:
@@ -111,8 +111,8 @@ sections:
   #     button:
   #       text: "Write me"
   #       url: "mailto:ilia.volkov@outlook.com"
-    design:
-      card:
-        css_class: "bg-primary-700"
-        css_style: ""
+  #   design:
+  #     card:
+  #       css_class: "bg-primary-700"
+  #       css_style: ""
 ---
