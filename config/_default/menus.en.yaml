@@ -5,10 +5,10 @@
 
 main:
   - name: Bio
-    url: ""
+    url: "."
     weight: 10
   - name: Publications
-    url: "/#papers"
+    url: "#papers"
     weight: 11
   # - name: News
   #   url: "#news"

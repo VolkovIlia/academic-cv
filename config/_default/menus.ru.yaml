@@ -5,13 +5,13 @@
 
 main:
   - name: Биография
-    url: "/"
+    url: "."
     weight: 10
   - name: Публикации
-    url: '/#papers'
+    url: '#papers'
     weight: 11
   - name: Выступления
-    url: '/#talks'
+    url: '#talks'
     weight: 12
   # - name: Новости
   #   url: '#news'
