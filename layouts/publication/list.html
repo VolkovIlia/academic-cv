@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+  </article>
+</div>
+
+{{ $pages := .RegularPages.ByDate.Reverse }}
+{{ $paginator := .Paginate $pages }}
+
+<div class="mx-auto w-full max-w-screen-lg px-4">
+  <div class="flex flex-col gap-6">
+    {{ range $paginator.Pages }}
+      {{ partial "views/citation" (dict "item" .) }}
+    {{ end }}
+  </div>
+
+  {{ if gt $paginator.TotalPages 1 }}
+    <nav class="mt-6">
+      <ul class="container mx-auto flex justify-center gap-6">
+        {{ if $paginator.HasPrev }}
+          <li class="p-2">
+            <a class="page-link" href="{{ $paginator.Prev.URL }}">&laquo; Prev</a>
+          </li>
+        {{ end }}
+        {{ if $paginator.HasNext }}
+          <li class="p-2">
+            <a class="page-link" href="{{ $paginator.Next.URL }}">Next &raquo;</a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  {{ end }}
+</div>
+
+{{ end }}

@@ -4,19 +4,28 @@
     {{- $item = . -}}
   {{- end -}}
 {{- end -}}
-{{- if not $item -}}{{- return -}}{{- end -}}
 
-<article class="card">
-  <div class="card-body">
-    <h3 class="card-title">
-      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+{{- $rel := "" -}}
+{{- $title := "" -}}
+{{- if $item -}}
+  {{- with $item.RelPermalink -}}{{- $rel = . -}}{{- end -}}
+  {{- with $item.Title -}}{{- $title = . -}}{{- end -}}
+{{- end -}}
+{{- $isValid := and $item $rel $title -}}
+
+{{- if $isValid -}}
+<article class="w-full max-w-screen-lg mx-auto mb-4 rounded-lg border border-primary-300 bg-white/95 dark:bg-neutral-800/50 ring-1 ring-black/5 shadow-sm">
+  <div class="p-5 md:p-6">
+    <h3 class="text-lg md:text-xl font-semibold leading-snug text-gray-900 dark:text-gray-100">
+      <a class="text-primary-700 dark:text-primary-200 hover:underline" href="{{ $rel }}">{{ $title }}</a>
     </h3>
     {{- with $item.Params.summary -}}
-      <p class="card-text">{{ . }}</p>
+      <p class="mt-2 text-gray-700 dark:text-gray-300">{{ . }}</p>
     {{- else -}}
       {{- with $item.Summary -}}
-        <p class="card-text">{{ . }}</p>
+        <p class="mt-2 text-gray-700 dark:text-gray-300">{{ . }}</p>
       {{- end -}}
     {{- end -}}
   </div>
 </article>
+{{- end -}}
