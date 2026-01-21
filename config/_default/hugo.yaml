@@ -45,6 +45,22 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
+outputFormats:
+  headers:
+    mediaType: text/plain
+    baseName: _headers
+    isPlainText: true
+    notAlternative: true
+  redirects:
+    mediaType: text/plain
+    baseName: _redirects
+    isPlainText: true
+    notAlternative: true
+  backlinks:
+    mediaType: application/json
+    baseName: backlinks
+    isPlainText: true
+    notAlternative: true
 imaging:
   resampleFilter: lanczos
   quality: 80
@@ -56,6 +72,11 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
+  goldmark:
+    renderHooks:
+      link:
+        _merge: none
+        useEmbedded: fallback
   highlight:
     lineNos: false
 security:

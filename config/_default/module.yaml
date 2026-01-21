@@ -7,6 +7,19 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+    mounts:
+      - source: assets
+        target: assets
+      - source: data
+        target: data
+      - source: i18n
+        target: i18n
+      - source: layouts
+        target: layouts
+        excludeFiles:
+          - _default/_markup/sitemap.xml
+      - source: static
+        target: static
   - path: github.com/hugomods/icons/vendors/bootstrap
   - path: github.com/hugomods/icons/vendors/font-awesome
 

@@ -80,6 +80,17 @@ education:
 
 # Work Experience
 work:
+  - position: "Project Lead"
+    company_name: "CEKI (Ministry of Digital Development of Russia)"
+    company_url: "https://digital.gov.ru/organizations/czentr-ekspertizy-i-koordinaczii-informatizaczii"
+    date_start: "2025-03-01"
+    summary: |
+      Lead performance monitoring for the federal project “Artificial Intelligence” (part of the national project “Data Economy and Digital Transformation of Government”): KPI tracking, delivery assurance, risk assessment, and stakeholder communications.
+
+      **Key Achievements & Responsibilities:**
+      - Implemented a RAG-based document-management workflow and improved data exchange processes
+      - Built a monitoring cadence for KPI/status reporting and execution control
+
   - position: "Chief Research Engineer"
     company_name: "Sirius University"
     company_url: "https://siriusuniversity.ru/"
@@ -116,6 +127,7 @@ work:
 
   - position: "Research Project Engineer"
     company_name: "NUST MISiS"
+    company_url: "https://misis.ru/"
     date_start: "2017-02-01"
     date_end: "2022-11-01"
     summary: |
@@ -134,15 +146,75 @@ languages:
   - name: "English"
     percent: 80
 
+# Skills
+skills:
+  - name: "AI Tools & Vibe-Coding"
+    items:
+      - name: "LLM-assisted delivery"
+        description: "Turn ambiguous goals into shippable artifacts: reports, briefs, dashboards, scripts, and prototypes."
+        icon_pack: fas
+        icon: check
+      - name: "Prompting & quality control"
+        description: "Decomposition, structured outputs, self-checks, and tight iteration loops to keep speed without losing correctness."
+        icon_pack: fas
+        icon: check
+      - name: "RAG for knowledge work"
+        description: "Document ingestion, chunking strategy, retrieval tuning, and answer-quality validation for internal knowledge bases."
+        icon_pack: fas
+        icon: check
+      - name: "Automation with AI"
+        description: "Draft risk registers, meeting notes, stakeholder updates, and documentation with consistent tone and traceability."
+        icon_pack: fas
+        icon: check
+
+  - name: "Project Risk & Delivery"
+    items:
+      - name: "Risk analysis"
+        description: "Identify and assess risks (impact/likelihood), define mitigations, owners, and escalation paths."
+        icon_pack: fas
+        icon: check
+      - name: "KPI and delivery control"
+        description: "KPI tracking, execution control, dependency management, and delivery assurance across parallel workstreams."
+        icon_pack: fas
+        icon: check
+      - name: "Scope and change management"
+        description: "Clarify requirements, prevent scope creep, and keep change control lightweight but explicit."
+        icon_pack: fas
+        icon: check
+      - name: "Operational governance"
+        description: "Cadence, checklists, templates, and decision logs to keep the project predictable."
+        icon_pack: fas
+        icon: check
+
+  - name: "Stakeholder Communications"
+    items:
+      - name: "Stakeholder mapping"
+        description: "Build stakeholder maps and communication plans; align expectations across teams and decision makers."
+        icon_pack: fas
+        icon: check
+      - name: "Executive-ready updates"
+        description: "Concise status reports: progress, risks, decisions needed, and next steps."
+        icon_pack: fas
+        icon: check
+      - name: "Facilitation"
+        description: "Run workshops and syncs, reduce conflict, and keep the focus on outcomes."
+        icon_pack: fas
+        icon: check
+      - name: "Documentation culture"
+        description: "Clear writing, traceability, and a single source of truth for decisions and requirements."
+        icon_pack: fas
+        icon: check
+
 ---
 
 ## About Me
 
 PhD (Eng.) and Head of R&D across materials science, heterogeneous catalysis, and nanotechnology. 7+ years bridging academic research with industrial delivery: standing up labs, deploying LIMS, running end-to-end research pipelines, and enforcing quality systems (GLP, GOST). I’ve led cross-functional teams of up to 8 with ~₽100M annual budgets and partner seamlessly with state corporations, research institutes, and private companies.
 
-Since March 2025, I’ve served as a Project Manager at the Center for Expertise and Coordination of Informatization (CEKI), a federal institution under Russia’s Ministry of Digital Development. In the Ministry’s project office I lead performance monitoring of the federal project “Artificial Intelligence” — KPI tracking, delivery assurance, risk assessment, and stakeholder communications — and I implemented a RAG-based document-management workflow. CEKI functions as the Ministry’s ICT expert hub, while the AI federal project sits within the national project “Data Economy,” whose objective is to enable broad adoption of domestic AI technologies by businesses and citizens.  
-[digital.gov.ru](https://digital.gov.ru)  
-[government.ru](https://government.ru)
+Since March 2025, I’ve served as a Project Lead at the Center for Expertise and Coordination of Informatization (CEKI), a federal institution under Russia’s Ministry of Digital Development. In the Ministry’s project office I lead performance monitoring of the federal project “Artificial Intelligence” — KPI tracking, delivery assurance, risk assessment, and stakeholder communications — and I implemented a RAG-based document-management workflow. The federal project “Artificial Intelligence” is part of the national project “Data Economy and Digital Transformation of Government.”  
+[CEKI on digital.gov.ru](https://digital.gov.ru/organizations/czentr-ekspertizy-i-koordinaczii-informatizaczii)  
+[Digital.gov.ru: Data Economy national project](https://digital.gov.ru/news/ekonomika-dannyh-tehnologicheskij-suverenitet-i-czifrovizacziya)  
+[Government.ru: launch announcement](http://government.ru/news/54354/)
 
 Open to roles: Head of R&D / Scientific Director, base from ₽600k (Moscow, St. Petersburg, other major cities); business travel welcome.
 
