@@ -93,15 +93,15 @@ sections:
     design:
       view: citation
 
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: "Conferences & Talks"
-  #     filters:
-  #       folders: ["event"]
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: "Talks"
+      filters:
+        folders: ["event"]
+    design:
+      view: article-grid
+      columns: 1
 
   # - block: cta-card
   #   content:
